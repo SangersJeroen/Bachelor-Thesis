@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\input{Resources/structure}
+
+\begin{document}
+
+\pagenumbering{roman}
+\input{Chapters/title}
+\newpage
+\input{Chapters/abstract}
+\newpage
+% Table of contents
+\thispagestyle{empty}
+\addcontentsline{toc}{section}{Table of contents}
+\tableofcontents
+\clearpage
+
+% Content
+
+\newpage
+\pagenumbering{arabic}
+\input{Chapters/introduction}
+\newpage
+\input{Chapters/theory}
+\newpage
+\input{Chapters/experimental_method}
+\newpage
+\input{Chapters/results}
+\newpage
+\input{Chapters/discussion}
+\newpage
+\input{Chapters/conclusion}
+\newpage
+\addcontentsline{toc}{section}{List of references}
+\bibliographystyle{ieeetr}
+\bibliography{Resources/literature.bib}
+
+\newpage
+\input{Chapters/appendix}
+\end{document}
