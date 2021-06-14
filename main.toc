@@ -1,0 +1,28 @@
+\babel@toc {british}{}
+\contentsline {section}{Abstract}{ii}{}%
+\contentsline {section}{Table of contents}{iii}{}%
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Theory}{2}{}%
+\contentsline {subsection}{\numberline {2.1}The Transmission electron microscope}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Electron scattering theory}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Momentum resolved electron energy-loss spectroscopy}{3}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Energy filtered transmission electron microscope}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Physical relevance of MREELS data}{3}{}%
+\contentsline {section}{\numberline {3}Experimental Method}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Data format}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Data correction techniques}{4}{}%
+\contentsline {subsection}{\numberline {3.3}Removing/altering values}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}zero-loss peak substraction}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Batson correction}{4}{}%
+\contentsline {subsection}{\numberline {3.4}Data processing techniques}{4}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Integration techniques}{4}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Slicing techniques}{4}{}%
+\contentsline {subsection}{\numberline {3.5}Data extraction techniques}{4}{}%
+\contentsline {section}{\numberline {4}Results}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Comparing integration techniques}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Comparing Batson correction}{5}{}%
+\contentsline {subsection}{\numberline {4.3}Interesting features from data}{5}{}%
+\contentsline {section}{\numberline {5}Discussion}{6}{}%
+\contentsline {section}{\numberline {6}Conclusion}{7}{}%
+\contentsline {section}{List of references}{8}{}%
+\contentsline {section}{Appendix}{9}{}%

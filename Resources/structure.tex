@@ -12,6 +12,7 @@
 \usepackage{listings}
 \usepackage{cite}
 \usepackage{enumerate} % Custom item numbers for enumerations
+\usepackage{graphicx}
 
 \usepackage[ruled]{algorithm2e} % Algorithms
 \usepackage{pdfpages}
@@ -27,21 +28,21 @@
 \definecolor{backcolour}{rgb}{0.929,0.949,0.984}
 
 \lstdefinestyle{mystyle}{
-    backgroundcolor=\color{backcolour},   
+    backgroundcolor=\color{backcolour},
     commentstyle=\color{codegreen},
     keywordstyle=\color{magenta},
     numberstyle=\tiny\color{codegray},
     stringstyle=\color{codepurple},
     basicstyle=\ttfamily\footnotesize,
-    breakatwhitespace=false,         
-    breaklines=true,                 
-    captionpos=b,                    
-    keepspaces=true,                 
-    numbers=left,                    
-    numbersep=5pt,                  
-    showspaces=false,                
+    breakatwhitespace=false,
+    breaklines=true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
     showstringspaces=false,
-    showtabs=false,                  
+    showtabs=false,
     tabsize=2
 }
 
@@ -124,3 +125,5 @@
     \thispagestyle{empty}%
     \addtocounter{page}{-1}%
     \newpage}
+
+\graphicspath{{Resources/Figures/}}
