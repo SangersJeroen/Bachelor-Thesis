@@ -11,13 +11,13 @@
 \contentsline {section}{\numberline {3}Experimental Method}{6}{}%
 \contentsline {subsection}{\numberline {3.1}Data format}{6}{}%
 \contentsline {subsection}{\numberline {3.2}Data correction techniques}{6}{}%
-\contentsline {subsection}{\numberline {3.3}Removing/altering values}{6}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}zero-loss peak substraction}{6}{}%
-\contentsline {subsubsection}{\numberline {3.3.2}Batson correction}{6}{}%
-\contentsline {subsection}{\numberline {3.4}Data processing techniques}{6}{}%
-\contentsline {subsubsection}{\numberline {3.4.1}Integration techniques}{6}{}%
-\contentsline {subsubsection}{\numberline {3.4.2}Slicing techniques}{6}{}%
-\contentsline {subsection}{\numberline {3.5}Data extraction techniques}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Removing/altering values}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}zero-loss peak substraction}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Batson correction}{6}{}%
+\contentsline {subsection}{\numberline {3.3}Data processing techniques}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Integration techniques}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Slicing techniques}{6}{}%
+\contentsline {subsection}{\numberline {3.4}Data extraction techniques}{6}{}%
 \contentsline {section}{\numberline {4}Results}{7}{}%
 \contentsline {subsection}{\numberline {4.1}Comparing integration techniques}{7}{}%
 \contentsline {subsection}{\numberline {4.2}Comparing Batson correction}{7}{}%
