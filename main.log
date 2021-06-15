@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  15 JUN 2021 20:01
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  15 JUN 2021 20:02
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/Jeroe/Documents/TU Delft/BEP report/main.tex"
@@ -1320,14 +1320,14 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 ("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.aux"))
 
 Here is how much of LuaTeX's memory you used:
- 23341 strings out of 479059
- 305241,953878 words of node,token memory allocated
- 954 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 dir, 5 glue, 8 kern, 7 glyph, 32 attribute, 109 g
-lue_spec, 18 attribute_list, 2 write nodes
-   avail lists: 1:1,2:5908,3:219,4:5824,5:5484,6:64,7:10458,8:3,9:16214,10:38,11
+ 23339 strings out of 479059
+ 305247,953878 words of node,token memory allocated
+ 928 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 dir, 5 glue, 8 kern, 5 glyph, 28 attribute, 109 g
+lue_spec, 16 attribute_list, 2 write nodes
+   avail lists: 1:1,2:5908,3:219,4:5824,5:5484,6:64,7:10460,8:2,9:16214,10:38,11
 :860
- 41488 multiletter control sequences out of 65536+200000
+ 41486 multiletter control sequences out of 65536+200000
  94 fonts using 8009307 bytes
  98i,6n,104p,520b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/U
@@ -1342,7 +1342,7 @@ ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Jeroe/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/J
 eroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/
 Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt8.pfb>
-Output written on main.pdf (16 pages, 515666 bytes).
+Output written on main.pdf (16 pages, 514640 bytes).
 
 PDF statistics: 108 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
