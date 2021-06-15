@@ -8,7 +8,7 @@ The TEM works by releasing electrons from an electron source and accelerating th
 The beam incident on the sample is limited to a illumination semi-angle $\alpha$ which is inversely proportional to the resolution, but limiting $\alpha$ decreases the amount of electrons incident on the specimen and thus a frame needs more time for a decent exposure.
 After having interacted with the specimen the beam is again limited by an aperture, this aperture sets the collection semi-angle $\beta$ which controls the limit of scattering angles allowed into the imaging lenses.
 After the beam is conditioned by the imaging lenses it passes trough four electromagnetic prisms which make up an energy filter called an $\Omega$-filter named after the shape it needs to have to keep the TEM stack aligned with the CCD-camera to limit aberrations.
-The $\Omega$-filter is used for energy filtered TEM images discussed in \ref{sec:eftem}.\\
+The $\Omega$-filter is used for energy filtered TEM images discussed in section \ref{sec:eftem}.\\
 Two types of images can be made with the TEM, a normal image which shows the magnified sample and a diffraction pattern image which can be made by placing the capture device in the focal point of the lens and filter system.
 A diffraction mode image shows the diffraction peaks that are characteristic of the sample and yields information on the reciprocal lattice of the sample.
 
@@ -27,13 +27,30 @@ A diffraction mode image shows the diffraction peaks that are characteristic of 
 \end{figure}
 
 \subsection{Electron scattering theory}
+In a TEM setup electrons are essentially shot through a sample in which the electrons can either simply pass through or scatter, in the latter scenario there are two possibilities, electrons can scatter elastically or inelastically.
+Scattering is a result of the interaction between the sampling electrons from the TEM source and the charges particles in the specimen.\\
+When scattering elastically the electrons interact with a nucleus of the specimen whose mass is many times greater than that of the sampling electron, resulting in a small and usually unmeasurable energy transfer.
+In a crystalline specimen electrons can only be scattered at certain angles due to the crystal structure creating a diffraction pattern of bright spots. In cases of large scattering angles the electron does transfer a significant amount of energy and can even reverse direction, this energy transfer can permanently displace atoms in the crystal structure causing a defect.\\
+When the sampling electron interacts with an electron in the specimen's crystal lattice inelastic occurs due tot the similarity in mass between the two electrons. The energy transfer of this interaction ranges from a few electronvolts up to multiple hundreds of electronvolts.
+Inelastic scattering not only results in an energy transfer but also in a momentum transfer as shown in figure \ref{fig:scat}, the $k'$-vector shows a scattered electron that deviates from the not scattered electron vector $k_0$.
+The total momentum transfer is the sum of the perpendicular momentum transfer $q_{\perp}$ proportional to the scattering angle $\theta$ and the momentum transfer parallel to the undisturbed path due to an energy transfer from the sampling electron to the sample. This parallel momentum transfer is thus proportional to the energy loss of the electron.
+Figure \ref{fig:bands} shows the band structure of the crystalline sample of which the electrons scatter. In this figure two bands are shown, both bands can be occupied by electrons of certain energies, to excite an electron from the blue band to the red band an electron needs either energy (path $t_1$) or energy and momentum (path $2$).
+The needed energy and momentum are transferred from an incident sampling electron in the inelastic interaction. By measuring the energy and momentum of a scattered electron it is possible to piece together all the combinations of energy and momenta transfer possible and thus find the band structure of the sample.
+
 
 
 \begin{figure}
 	\centering
 	\includegraphics[width=0.25\linewidth, keepaspectratio]{scat.png}
-	\caption{scat}
+	\caption{The elastic scattering $k'$ of an electron over an angle $\theta$ due to the interaction with a crystalline sample.}
 	\label{fig:scat}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.25\linewidth, keepaspectratio]{bands.png}
+	\caption{The band structure of the crystalline sample in fig. \ref{fig:scat} showing both a direct bandgap $t_1$ and an indirect bandgap $t_2$.}
+	\label{fig:bands}
 \end{figure}
 
 
