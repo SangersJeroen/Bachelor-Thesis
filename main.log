@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  15 JUN 2021 19:28
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  15 JUN 2021 19:58
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/Jeroe/Documents/TU Delft/BEP report/main.tex"
@@ -1277,18 +1277,18 @@ Package luatex.def Info: Resources/Figures//bands.png  used on input line 53.
 <Resources/Figures//diff-im.png, id=43, 175.97745pt x 216.81pt>
 File: Resources/Figures//diff-im.png Graphic file (type png)
 <use Resources/Figures//diff-im.png>
-Package luatex.def Info: Resources/Figures//diff-im.png  used on input line 70.
+Package luatex.def Info: Resources/Figures//diff-im.png  used on input line 71.
 (luatex.def)             Requested size: 113.81102pt x 140.21686pt.
 <Resources/Figures//diff-im3d.png, id=44, 406.51875pt x 337.5009pt>
 File: Resources/Figures//diff-im3d.png Graphic file (type png)
 <use Resources/Figures//diff-im3d.png>
-Package luatex.def Info: Resources/Figures//diff-im3d.png  used on input line 76
+Package luatex.def Info: Resources/Figures//diff-im3d.png  used on input line 77
 .
 (luatex.def)             Requested size: 341.43307pt x 283.47307pt.
 <Resources/Figures//filter.png, id=45, 218.9781pt x 217.89404pt>
 File: Resources/Figures//filter.png Graphic file (type png)
 <use Resources/Figures//filter.png>
-Package luatex.def Info: Resources/Figures//filter.png  used on input line 88.
+Package luatex.def Info: Resources/Figures//filter.png  used on input line 89.
 (luatex.def)             Requested size: 113.81102pt x 113.2457pt.
 )
 [4<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//bands.png><c:
@@ -1705,14 +1705,14 @@ ge10 used on input line 47.
 ("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.aux"))
 
 Here is how much of LuaTeX's memory you used:
- 23727 strings out of 479059
+ 23728 strings out of 479059
  305241,953878 words of node,token memory allocated
  954 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 dir, 5 glue, 8 kern, 7 glyph, 32 attribute, 109 g
 lue_spec, 18 attribute_list, 2 write nodes
    avail lists: 1:1,2:5908,3:219,4:5824,5:5488,6:64,7:10458,8:3,9:16214,10:38,11
 :860
- 41544 multiletter control sequences out of 65536+200000
+ 41545 multiletter control sequences out of 65536+200000
  94 fonts using 8009307 bytes
  98i,17n,104p,520b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/U
@@ -1727,7 +1727,7 @@ ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Jeroe/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/J
 eroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/
 Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt8.pfb>
-Output written on main.pdf (31 pages, 723347 bytes).
+Output written on main.pdf (31 pages, 724043 bytes).
 
 PDF statistics: 252 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)

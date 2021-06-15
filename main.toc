@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {2.2}Electron scattering theory}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Momentum resolved electron energy-loss spectroscopy}{3}{}%
 \contentsline {subsubsection}{\numberline {2.3.1}Energy filtered transmission electron microscope}{4}{}%
-\contentsline {subsection}{\numberline {2.4}Physical relevance of MREELS data}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Physical relevance of (MR)EELS data}{4}{}%
 \contentsline {section}{\numberline {3}Experimental Method}{6}{}%
 \contentsline {subsection}{\numberline {3.1}Data format}{6}{}%
 \contentsline {subsection}{\numberline {3.2}Data correction techniques}{6}{}%
