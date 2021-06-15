@@ -10,7 +10,7 @@ After having interacted with the specimen the beam is again limited by an apertu
 After the beam is conditioned by the imaging lenses it passes trough four electromagnetic prisms which make up an energy filter called an $\Omega$-filter named after the shape it needs to have to keep the TEM stack aligned with the CCD-camera to limit aberrations.
 The $\Omega$-filter is used for energy filtered TEM images discussed in section \ref{sec:eftem}.\\
 Two types of images can be made with the TEM, a normal image which shows the magnified sample and a diffraction pattern image which can be made by placing the capture device in the focal point of the lens and filter system.
-A diffraction mode image shows the diffraction peaks that are characteristic of the sample and yields information on the reciprocal lattice of the sample.
+A diffraction mode image shows the diffraction peaks that are characteristic of the sample and yields information on the reciprocal lattice of the sample. \cite{Egerton_2008}
 
 
 %+ Normal microscope
@@ -34,8 +34,10 @@ In a crystalline specimen electrons can only be scattered at certain angles due 
 When the sampling electron interacts with an electron in the specimen's crystal lattice inelastic occurs due tot the similarity in mass between the two electrons. The energy transfer of this interaction ranges from a few electronvolts up to multiple hundreds of electronvolts.
 Inelastic scattering not only results in an energy transfer but also in a momentum transfer as shown in figure \ref{fig:scat}, the $k'$-vector shows a scattered electron that deviates from the not scattered electron vector $k_0$.
 The total momentum transfer is the sum of the perpendicular momentum transfer $q_{\perp}$ proportional to the scattering angle $\theta$ and the momentum transfer parallel to the undisturbed path due to an energy transfer from the sampling electron to the sample. This parallel momentum transfer is thus proportional to the energy loss of the electron.
-Figure \ref{fig:bands} shows the band structure of the crystalline sample of which the electrons scatter. In this figure two bands are shown, both bands can be occupied by electrons of certain energies, to excite an electron from the blue band to the red band an electron needs either energy (path $t_1$) or energy and momentum (path $2$).
-The needed energy and momentum are transferred from an incident sampling electron in the inelastic interaction. By measuring the energy and momentum of a scattered electron it is possible to piece together all the combinations of energy and momenta transfer possible and thus find the band structure of the sample.
+Figure \ref{fig:bands} shows the band structure of the crystalline sample of which the electrons scatter. In this figure two bands are shown, both bands can be occupied by electrons of certain energies, to excite an electron from the blue band to the red band an electron needs either energy (path $t_1$) or energy and momentum (path $t_2$).
+The needed energy and momentum are transferred from an incident sampling electron in the inelastic interaction. By measuring the energy and momentum of a scattered electron it is possible to piece together all the combinations of energy and momenta transfer possible and thus find the band structure of the sample.\\
+Another form of inelastic scattering is plasmon excitation. Since the outer-shell electrons of an atom are only weakly bound to the nucleus due to screening effects but are coupled together by electrostatic interaction. These delocalised electrons form an energy band similar to that shown in figure \ref{fig:bands}.
+When a fast-moving sampling electron is shot through the sample all nearby outer-shell electrons are displaced. If the sampling electron's velocity exceeds the fermi speed the displacement of outer-shell electrons creates an oscillating ripple creating waves of alternating positive and negative electric charge, this is known as a plasmon wake.
 
 
 
@@ -55,6 +57,13 @@ The needed energy and momentum are transferred from an incident sampling electro
 
 
 \subsection{Momentum resolved electron energy-loss spectroscopy}
+Momentum resolved electron energy-loss spectroscopy hereafter abbreviated as MREELS is a TEM imaging technique in which the imaging plane of the CCD camera is placed in the focal point of the imaging lenses and energy filter.
+This allows the camera to take a diffraction mode image in which the diffraction pattern of the scattering electrons is shown. This is illustrated in figure \ref{fig:diff-im}. In this figure the crystalline sample is shown as the box with the slanted lines that represent the Miller planes of the crystal structure.
+As shown in the figure all electrons that scatter of of the same family of Miller planes get focused on the same region on the imaging sensor, electrons that do not scatter also get focused in one spot at the centre of the diffraction pattern.
+A diffraction mode image does not image normal space but instead shows reciprocal space which is also the reason this type of image is useful. In a normal image one would attribute lengths to the axes of an image but in a diffraction mode image the separation of features is given by a momentum difference.
+The separation of the light and dark grey arrows on the imaging plane in figure \ref{fig:diff-im} is thus equal to the difference in perpendicular momentum transfer between scattering electrons (light grey) and electrons that do not scatter (dark grey).
+Since the momentum transfer for the electrons that do not scatter is zero the momentum transfer for scattering of a certain family of planes can be determined.
+
 
 \begin{figure}
 	\centering
@@ -70,6 +79,18 @@ The needed energy and momentum are transferred from an incident sampling electro
 \end{figure}
 \subsubsection{Energy filtered transmission electron microscope}
 \label{sec:eftem}
+An energy filtered transmission electron microscope is a microscope with an energy filter placed in the optical column of the TEM. Energy filtering is accomplished by the use of electromagnetic prisms such as those shown in figure \ref{fig:filter}.
+These prisms just like ordinary prism disperse the electrons with different wavelengths proportional to electron energy. By sliding a slit into the cone of dispersed electrons it is possible to choose a finite range of electron energies to image.
+The EFTEM setup can be used in conjunction with the MREELS imaging technique to gather information on both the momentum transfer of the electron (via MREELS) and the energy loss associated (via EFTEM) with that momentum transfer.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.25\linewidth, keepaspectratio]{filter.png}
+	\caption{A $\Omega$-spectrometer spreading the electrons based on their energy and a slit selecting energies to focus on the CCD camera.}
+	\label{fig:filter}
+\end{figure}
+
+
 \subsection{Physical relevance of MREELS data}
 \cite{doi:10.1021/acs.nanolett.9b03928}
 \cite{doi:10.1021/acsphotonics.7b00103}
