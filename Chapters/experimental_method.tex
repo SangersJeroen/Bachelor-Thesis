@@ -1,12 +1,42 @@
 \section{Experimental Method}
 \subsection{Data format}
-For this work a specimen of $\gamme$-InSe was imaged using the momentum resolved electron energy loss technique in an energy filtered transmission electron microscope.
-The file was supplied with aligned zero-loss peaks in Gatan's \textit{.dm4} format which had to be converted to a python object for further data processing in python, for the conversion from Gatan's proprietary file to a python object the excellent ncempy package \cite{ncempy} was used.
+For this work a specimen of $\gamma$-InSe was imaged using the momentum resolved electron energy loss technique in an energy filtered transmission electron microscope.
+The file was supplied with aligned zero-loss peaks in Gatan's \textit{.dm4} format which had to be converted to a python object for further data processing in python, for the conversion from Gatan's proprietary file to a python object the excellent ncempy package \cite{ncempy} was used.\\
+
+The measurement data is gathered by taking energy filtered diffraction images, meaning that there is a diffraction mode image for a large range of energy losses.
+All these images are stacked corresponding to the correspond energy value, resulting in a EFTEM image stack as illustrated in figure \ref{fig:eftem-stack}.
+In the illustrated cube the horizontal planes are diffraction mode images associated with an energy loss $\Delta E$, these energy slices have their own momentum axes that are not necessarily aligned with the whole stack.
+After alignment the individual pixels in the EFTEM stack can be fully expressed by four values, three coordinates: $q_x$, $q_y$, $\Delta E$ and one scattering intensity $I$.\\
+
+Once the EFTEM stack is aligned it is possible to start extracting sets of values in meaningful ways. One way is to take a single column from the top of the stack to the bottom, doing this results in a 1D-array of values for a set position in momentum space and varying energy-loss, this is called an electron energy loss spectrum.
+An example of such a spectrum is illustrated in figure \ref{fig:spectrum}. Another way is to extract multiple of these columns such that their total momentum increases, doing this yields a energy-momentum map as pictured in figure \ref{fig:qmap}.
+
 \subsection{Data correction techniques}
 \subsubsection{Removing/altering values}
-\subsubsection{zero-loss peak substraction}
+Before any meaningful results can be extracted from the EFTEM stack it is important to first correct the data.
+This process starts by removing all the values corresponding to negative energy losses, these values are a result of the microscope software aligning the slices such that the zero-loss peak is at an energy loss of $0eV$.
+It does this by shifting slices up or down to match them to their true energy loss, slices corresponding to negative energy losses are duplicates of slices at positive energy losses.\\
+After removing the negative energy loss slices the negative intensity values are raised by the minimum amount needed to make all values positive.
+This means that all values of the entire stack are raised by the absolute value of the most negative intensity. Doing this changes the performance of further techniques for the better.\\
+
+\subsubsection{zero-loss peak subtraction}
+
+
+
 \subsubsection{Batson correction}
+
+
+
 \subsection{Data processing techniques}
+
+
+
 \subsubsection{Integration techniques}
+
+
+
 \subsubsection{Slicing techniques}
+
+
+
 \subsection{Data extraction techniques}
