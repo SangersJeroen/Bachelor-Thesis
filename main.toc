@@ -8,6 +8,7 @@
 \contentsline {subsection}{\numberline {2.3}Momentum resolved electron energy-loss spectroscopy}{3}{}%
 \contentsline {subsubsection}{\numberline {2.3.1}Energy filtered transmission electron microscope}{4}{}%
 \contentsline {subsection}{\numberline {2.4}Physical relevance of (MR)EELS data}{4}{}%
+\contentsline {subsection}{\numberline {2.5}q-EELS spectra and q-EELS map}{4}{}%
 \contentsline {section}{\numberline {3}Experimental Method}{6}{}%
 \contentsline {subsection}{\numberline {3.1}Data format}{6}{}%
 \contentsline {subsection}{\numberline {3.2}Data correction techniques}{6}{}%
@@ -17,7 +18,7 @@
 \contentsline {subsection}{\numberline {3.3}Data processing techniques}{6}{}%
 \contentsline {subsubsection}{\numberline {3.3.1}Integration techniques}{6}{}%
 \contentsline {subsubsection}{\numberline {3.3.2}Slicing techniques}{7}{}%
-\contentsline {subsection}{\numberline {3.4}Data extraction techniques}{7}{}%
+\contentsline {subsection}{\numberline {3.4}Data extraction}{7}{}%
 \contentsline {section}{\numberline {4}Results}{8}{}%
 \contentsline {subsection}{\numberline {4.1}Comparing integration techniques}{8}{}%
 \contentsline {subsection}{\numberline {4.2}Comparing Batson correction}{8}{}%

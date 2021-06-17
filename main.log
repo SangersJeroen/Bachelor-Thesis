@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  17 JUN 2021 13:21
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  17 JUN 2021 16:11
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/Jeroe/Documents/TU Delft/BEP report/main.tex"
@@ -1265,30 +1265,30 @@ Package luatex.def Info: Resources/Figures//tem.png  used on input line 24.
 <Resources/Figures//scat.png, id=35, 185.7339pt x 170.91855pt>
 File: Resources/Figures//scat.png Graphic file (type png)
 <use Resources/Figures//scat.png>
-Package luatex.def Info: Resources/Figures//scat.png  used on input line 46.
+Package luatex.def Info: Resources/Figures//scat.png  used on input line 47.
 (luatex.def)             Requested size: 113.81102pt x 104.7348pt.
 <Resources/Figures//bands.png, id=36, 191.5155pt x 155.74185pt>
 File: Resources/Figures//bands.png Graphic file (type png)
 <use Resources/Figures//bands.png>
-Package luatex.def Info: Resources/Figures//bands.png  used on input line 53.
+Package luatex.def Info: Resources/Figures//bands.png  used on input line 54.
 (luatex.def)             Requested size: 113.81102pt x 92.55467pt.
 
 [3<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//scat.png>]
 <Resources/Figures//diff-im.png, id=43, 175.97745pt x 216.81pt>
 File: Resources/Figures//diff-im.png Graphic file (type png)
 <use Resources/Figures//diff-im.png>
-Package luatex.def Info: Resources/Figures//diff-im.png  used on input line 71.
+Package luatex.def Info: Resources/Figures//diff-im.png  used on input line 72.
 (luatex.def)             Requested size: 113.81102pt x 140.21686pt.
 <Resources/Figures//diff-im3d.png, id=44, 406.51875pt x 337.5009pt>
 File: Resources/Figures//diff-im3d.png Graphic file (type png)
 <use Resources/Figures//diff-im3d.png>
-Package luatex.def Info: Resources/Figures//diff-im3d.png  used on input line 77
+Package luatex.def Info: Resources/Figures//diff-im3d.png  used on input line 78
 .
 (luatex.def)             Requested size: 341.43307pt x 283.47307pt.
 <Resources/Figures//filter.png, id=45, 218.9781pt x 217.89404pt>
 File: Resources/Figures//filter.png Graphic file (type png)
 <use Resources/Figures//filter.png>
-Package luatex.def Info: Resources/Figures//filter.png  used on input line 89.
+Package luatex.def Info: Resources/Figures//filter.png  used on input line 90.
 (luatex.def)             Requested size: 113.81102pt x 113.2457pt.
 )
 [4<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//bands.png><c:
@@ -1324,9 +1324,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--21
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--37
+LaTeX Warning: Reference `fig:qmap' on page 6 undefined on input line 38.
 
- []
+
+LaTeX Warning: Reference `fig:integration' on page 6 undefined on input line 39.
+
 
 [6]) [7] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/results.tex")
 [8] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/discussion.tex")
@@ -1346,391 +1348,6 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 (Font)              scaled to size 5.0pt on input line 6.
 ) [12]
-<Resources/Reference Literature/Literature_Study.pdf, id=81, 597.19106pt x 845.0
-7718pt>
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf  us
-ed on input line 46.
-(luatex.def)             Requested size: 597.1896pt x 845.07512pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf  us
-ed on input line 46.
-(luatex.def)             Requested size: 597.1896pt x 845.07512pt.
-<Resources/Reference Literature/Literature_Study.pdf, id=84, page=1, 597.19106pt
- x 845.07718pt>
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age1 used on input line 46.
-(luatex.def)             Requested size: 597.1896pt x 845.07512pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age1 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age1 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age1 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age1 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-
-[13<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature/
-Literature_Study.pdf>]
-<Resources/Reference Literature/Literature_Study.pdf, id=129, page=2, 597.19106p
-t x 845.07718pt>
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 2>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age2 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 2>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age2 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 2>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age2 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
- [14<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/Literature_Study.pdf>]
-<Resources/Reference Literature/Literature_Study.pdf, id=135, page=3, 597.19106p
-t x 845.07718pt>
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 3>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age3 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 3>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age3 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 3>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age3 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
- [15<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/Literature_Study.pdf>]
-<Resources/Reference Literature/Literature_Study.pdf, id=141, page=4, 597.19106p
-t x 845.07718pt>
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 4>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age4 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 4>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age4 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 4>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age4 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-
-[16<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature/
-Literature_Study.pdf>]
-<Resources/Reference Literature/Literature_Study.pdf, id=149, page=5, 597.19106p
-t x 845.07718pt>
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 5>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age5 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 5>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age5 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: Resources/Reference Literature/Literature_Study.pdf Graphic file (type pdf
-)
-<use Resources/Reference Literature/Literature_Study.pdf, page 5>
-Package luatex.def Info: Resources/Reference Literature/Literature_Study.pdf , p
-age5 used on input line 46.
-(luatex.def)             Requested size: 597.21693pt x 845.1138pt.
- [17<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/Literature_Study.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=156, 364.19563pt x 273.1
-4647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf  use
-d on input line 47.
-(luatex.def)             Requested size: 364.19475pt x 273.1458pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf  use
-d on input line 47.
-(luatex.def)             Requested size: 364.19475pt x 273.1458pt.
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=159, page=1, 364.19563pt
- x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge1 used on input line 47.
-(luatex.def)             Requested size: 364.19475pt x 273.1458pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge1 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge1 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge1 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 1>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge1 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
- [18<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/BEP_update_30_4.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=178, page=2, 364.19563pt
- x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 2>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge2 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 2>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge2 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 2>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge2 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
- [19<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/BEP_update_30_4.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=182, page=3, 364.19563pt
- x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 3>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge3 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 3>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge3 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 3>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge3 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
- [20<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/BEP_update_30_4.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=186, page=4, 364.19563pt
- x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 4>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge4 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 4>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge4 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 4>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge4 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
- [21<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/BEP_update_30_4.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=190, page=5, 364.19563pt
- x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 5>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge5 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 5>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge5 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 5>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge5 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
- [22<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/BEP_update_30_4.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=194, page=6, 364.19563pt
- x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 6>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge6 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 6>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge6 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 6>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge6 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
- [23<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/BEP_update_30_4.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=200, page=7, 364.19563pt
- x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 7>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge7 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 7>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge7 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 7>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge7 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
- [24<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/BEP_update_30_4.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=204, page=8, 364.19563pt
- x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 8>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge8 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 8>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge8 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 8>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge8 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
- [25<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/BEP_update_30_4.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=208, page=9, 364.19563pt
- x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 9>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge9 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 9>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge9 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 9>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge9 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-
-[26<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature/
-BEP_update_30_4.pdf>]
-<Resources/Reference Literature/BEP_update_30_4.pdf, id=213, page=10, 364.19563p
-t x 273.14647pt>
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 10>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge10 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 10>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge10 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
-File: Resources/Reference Literature/BEP_update_30_4.pdf Graphic file (type pdf)
-
-<use Resources/Reference Literature/BEP_update_30_4.pdf, page 10>
-Package luatex.def Info: Resources/Reference Literature/BEP_update_30_4.pdf , pa
-ge10 used on input line 47.
-(luatex.def)             Requested size: 597.82376pt x 448.36739pt.
- [27<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
-/BEP_update_30_4.pdf>]
 ("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.aux")
 
 LaTeX Warning: There were undefined references.
@@ -1738,16 +1355,16 @@ LaTeX Warning: There were undefined references.
 )
 
 Here is how much of LuaTeX's memory you used:
- 23730 strings out of 479059
- 305239,953878 words of node,token memory allocated
- 970 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 dir, 5 glue, 14 kern, 5 glyph, 32 attribute, 109 
-glue_spec, 18 attribute_list, 2 write nodes
-   avail lists: 1:1,2:5908,3:220,4:5824,5:5488,6:64,7:10460,8:3,9:16214,10:38,11
+ 23344 strings out of 479059
+ 305247,953878 words of node,token memory allocated
+ 976 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 dir, 5 glue, 14 kern, 5 glyph, 34 attribute, 109 
+glue_spec, 19 attribute_list, 2 write nodes
+   avail lists: 1:1,2:5908,3:227,4:5824,5:5484,6:64,7:10463,8:6,9:16214,10:38,11
 :860
- 41547 multiletter control sequences out of 65536+200000
+ 41491 multiletter control sequences out of 65536+200000
  94 fonts using 8009307 bytes
- 98i,17n,104p,591b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 98i,6n,104p,621b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/U
 sers/Jeroe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_uy5hgr.enc
 }<C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XChar
@@ -1762,9 +1379,9 @@ roe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.p
 fb><C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt8.pfb
 >
-Output written on main.pdf (32 pages, 738621 bytes).
+Output written on main.pdf (17 pages, 533659 bytes).
 
-PDF statistics: 259 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 115 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

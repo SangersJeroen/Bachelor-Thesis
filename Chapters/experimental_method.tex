@@ -24,7 +24,7 @@ This means that all values of the entire stack are raised by the absolute value 
 
 
 \subsubsection{Batson correction}
-
+\textbf{SUBJECT TO CHANGE IN CODE AND TECHNIQUE IF IMAGE SPECTRUM EXISTS AND CAN BE USED}
 
 
 \subsection{Data processing techniques}
@@ -33,12 +33,15 @@ Since the EFTEM data is essentially a 3D cube of values it needs to be processed
 \subsubsection{Integration techniques}
 To achieve the goal of representing the data in a meaningful ways two integration techniques have been implemented in Python.
 A radial integration method that finds the centre of the image stack which is determined to be the brightest pixel of the unaltered EFTEM stack since this is most probably the zero-loss peak at the centre of the unscattered beam.
-From this centre outward the method sums all EELS spectra in circle from a certain radius to that radius plus a ringsize, the starting and ending radius as well as the ringsize can be specified by the user. When this method is finished the result is an array of summed EELS spectra for a set of rings. This method is not truly an integration technique yet this \textbf{MIGHT STILL BE ADDED,CHANGE THIS IF ITS ADDED BY INTEGRATING OVER ALL SPECCTRA IN A SOLID ANGLE.}\\
-
+From this centre outward the method sums all EELS spectra in circle from a certain radius to that radius plus a ringsize, the starting and ending radius as well as the ringsize can be specified by the user.
+This method is the same as integrating with respect to the solid angle but without the appropriate constants involved
+When this method is finished the result is an array of summed EELS spectra for a set of rings. This can be plotted as a momentum-energy EELS map as shown in \ref{fig:qmap}.
+Instead of integration in circle segments over the entire stack the user might want to only do a line-like integration towards a single diffraction peak. If this is the case a similar method to the one described above is called except for the change that instead of circle segments in integrates over pie piece like segments as illustrated in figure \ref{fig:integration}.
 
 
 \subsubsection{Slicing techniques}
+Slicing refers to the term of "array slicing" in Python/Numpy which is the built-in way to select data from an array whose position in the array satisfies a condition. The slicing technique allows the user to specify one or two points and extracts all columns along the line between the two points. If one point is specified by the user the other point will be the centre of the EFTEM stack. This method returns an array of all the EELS spectra for the points along the line. This can again be plotted as a momentum-energy map.
 
+\subsection{Data extraction}
+Once the full 3D EFTEM stack is reduced to useful momentum-energy maps or $q$-EELS spectra it is possible to start identifying interesting features such as peaks in the $q$-EELS spectra at certain regions or bright spots in the momentum-energy maps. For instance, if long bright streaks can be observed in the momentum-energy map they might hint at a relation between energy and momentum of an often occurring reaction. One of such bright peaks that will be tracked is the plasmon peak at roughly $14.5eV$ energy loss.
 
-
-\subsection{Data extraction techniques}
