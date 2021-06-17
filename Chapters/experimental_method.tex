@@ -28,10 +28,12 @@ This means that all values of the entire stack are raised by the absolute value 
 
 
 \subsection{Data processing techniques}
-
-
+Since the EFTEM data is essentially a 3D cube of values it needs to be processed in such a way that the information it contains can be extracted. This is something that can not be done with the cube itself since it is hard to represent 3D data in meaningful ways.
 
 \subsubsection{Integration techniques}
+To achieve the goal of representing the data in a meaningful ways two integration techniques have been implemented in Python.
+A radial integration method that finds the centre of the image stack which is determined to be the brightest pixel of the unaltered EFTEM stack since this is most probably the zero-loss peak at the centre of the unscattered beam.
+From this centre outward the method sums all EELS spectra in circle from a certain radius to that radius plus a ringsize, the starting and ending radius as well as the ringsize can be specified by the user. When this method is finished the result is an array of summed EELS spectra for a set of rings. This method is not truly an integration technique yet this \textbf{MIGHT STILL BE ADDED,CHANGE THIS IF ITS ADDED BY INTEGRATING OVER ALL SPECCTRA IN A SOLID ANGLE.}\\
 
 
 

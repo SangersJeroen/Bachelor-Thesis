@@ -16,13 +16,13 @@
 \contentsline {subsubsection}{\numberline {3.2.3}Batson correction}{6}{}%
 \contentsline {subsection}{\numberline {3.3}Data processing techniques}{6}{}%
 \contentsline {subsubsection}{\numberline {3.3.1}Integration techniques}{6}{}%
-\contentsline {subsubsection}{\numberline {3.3.2}Slicing techniques}{6}{}%
-\contentsline {subsection}{\numberline {3.4}Data extraction techniques}{6}{}%
-\contentsline {section}{\numberline {4}Results}{7}{}%
-\contentsline {subsection}{\numberline {4.1}Comparing integration techniques}{7}{}%
-\contentsline {subsection}{\numberline {4.2}Comparing Batson correction}{7}{}%
-\contentsline {subsection}{\numberline {4.3}Interesting features from data}{7}{}%
-\contentsline {section}{\numberline {5}Discussion}{8}{}%
-\contentsline {section}{\numberline {6}Conclusion}{9}{}%
-\contentsline {section}{List of references}{10}{}%
-\contentsline {section}{Appendix}{11}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Slicing techniques}{7}{}%
+\contentsline {subsection}{\numberline {3.4}Data extraction techniques}{7}{}%
+\contentsline {section}{\numberline {4}Results}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Comparing integration techniques}{8}{}%
+\contentsline {subsection}{\numberline {4.2}Comparing Batson correction}{8}{}%
+\contentsline {subsection}{\numberline {4.3}Interesting features from data}{8}{}%
+\contentsline {section}{\numberline {5}Discussion}{9}{}%
+\contentsline {section}{\numberline {6}Conclusion}{10}{}%
+\contentsline {section}{List of references}{11}{}%
+\contentsline {section}{Appendix}{12}{}%
