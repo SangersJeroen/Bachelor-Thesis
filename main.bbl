@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{PhysRevLett.106.193905}
+E.~G. van Putten, D.~Akbulut, J.~Bertolotti, W.~L. Vos, A.~Lagendijk, and A.~P.
+  Mosk, ``Scattering lens resolves sub-100 nm structures with visible light,''
+  {\em Phys. Rev. Lett.}, vol.~106, p.~193905, May 2011.
+
+\bibitem{kisielowski_freitag_bischoff_van}
+C.~Kisielowski, B.~Freitag, M.~Bischoff, H.~van Lin, S.~Lazar, G.~Knippels,
+  P.~Tiemeijer, M.~van~der Stam, S.~von Harrach, M.~Stekelenburg, and et~al.,
+  ``Detection of single atoms and buried defects in three dimensions by
+  aberration-corrected electron microscope with 0.5-Å information limit,''
+  {\em Microscopy and Microanalysis}, vol.~14, no.~5, p.~469–477, 2008.
+
+\bibitem{Egerton_2008}
+R.~F. Egerton, ``Electron energy-loss spectroscopy in the {TEM},'' {\em Reports
+  on Progress in Physics}, vol.~72, p.~016502, dec 2008.
+
+\bibitem{doi:10.1021/acs.nanolett.9b03928}
+E.~Gaufrès, F.~Fossard, V.~Gosselin, L.~Sponza, F.~Ducastelle, Z.~Li, S.~G.
+  Louie, R.~Martel, M.~Côté, and A.~Loiseau, ``Momentum-resolved dielectric
+  response of free-standing mono-, bi-, and trilayer black phosphorus,'' {\em
+  Nano Letters}, vol.~19, no.~11, pp.~8303--8310, 2019.
+\newblock PMID: 31603690.
+
+\bibitem{ncempy}
+P.~Ercius, P.~Gonzalo, T.~Schoonjans, fniekiel, tcpekin, and koschie,
+  ``ncempy.''
+\newblock The last three authors are github usernames.
+
+\end{thebibliography}
