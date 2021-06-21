@@ -36,18 +36,15 @@ Once the EFTEM stack is aligned it is possible to start extracting sets of value
 \subsection{Data correction techniques}
 \subsubsection{Removing/altering values}
 Before any meaningful results can be extracted from the EFTEM stack it is important to first correct the data.
-This process starts by removing all the values corresponding to negative energy losses, these values are a result of the microscope software aligning the slices such that the zero-loss peak is at an energy loss of $0eV$.
+This process starts by removing all the values corresponding to negative energy losses, these values are can be incorrectly indexed as a result of the microscope software aligning the slices such that the zero-loss peak is at an energy loss of $0eV$.
 It does this by shifting slices up or down to match them to their true energy loss, slices corresponding to negative energy losses are duplicates of slices at positive energy losses.\\
 After removing the negative energy loss slices the negative intensity values are raised by the minimum amount needed to make all values positive.
-This means that all values of the entire stack are raised by the absolute value of the most negative intensity. Doing this changes the performance of further techniques for the better.
+This means that all values of the entire stack are raised by the absolute value of the most negative intensity. Doing this changes the performance of further techniques for the better.\\
+Since the acquisition time of the EFTEM stack is quite large and not all slices are taken at the same time it might happen that the sample moves due to disturbances. Correcting this is done by convoluting a slice with Sobel matrices to get an edge-detected image, these images are then aligned by means of Fourier phase correlation \cite{Sjodahl:93}.
 
-\subsubsection{zero-loss peak subtraction}
-
-
-
-\subsubsection{Batson correction}
-\textbf{SUBJECT TO CHANGE IN CODE AND TECHNIQUE IF IMAGE SPECTRUM EXISTS AND CAN BE USED}
-
+\subsubsection{Zero-loss peak and Batson correction}
+To try and remove the zero-loss peak of the q-EELS spectrum a Batson correction is performed. A Batson correction normally uses the sum of all EELS spectra in an EFTEM image of the sample to try and correct plural scattering and subtract the zero-loss peak \cite{PhysRevB.27.5224}. Since such an image was not available the sum of all q-EELS spectra in the first Brillouin zone was used since this region was more likely to correspond to a true image of the sample, the sum of the q-EELS spectra in the first Brillouin zone is called the correction spectrum.
+The Batson correction is then performed by scaling the correction spectrum for each q-EELS spectra to be corrected in such a way that the integrated intensity of the zero-loss peaks matches, then the "centre of intensity" of the zero-loss peaks is determined and the correction spectrum is subtracted from the to be corrected q-EELS spectra with the centres of intensity aligned.
 
 \subsection{Data processing techniques}
 Since the EFTEM data is essentially a 3D cube of values it needs to be processed in such a way that the information it contains can be extracted. This is something that can not be done with the cube itself since it is hard to represent 3D data in meaningful ways.
