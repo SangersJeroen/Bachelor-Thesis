@@ -31,8 +31,10 @@ This means that all values of the entire stack are raised by the absolute value 
 Since the acquisition time of the EFTEM stack is quite large and not all slices are taken at the same time it might happen that the sample moves due to disturbances. Correcting this is done by convoluting a slice with Sobel matrices to get an edge-detected image, these images are then aligned by means of Fourier phase correlation \cite{Sjodahl:93}.
 
 \subsubsection{Zero-loss peak and Batson correction}
+\label{sec:batsen}
 To try and remove the zero-loss peak of the q-EELS spectrum a Batson correction is performed. A Batson correction normally uses the sum of all EELS spectra in an EFTEM image of the sample to try and correct plural scattering and subtract the zero-loss peak \cite{PhysRevB.27.5224}. Since such an image was not available the sum of all q-EELS spectra in the first Brillouin zone was used since this region was more likely to correspond to a true image of the sample, the sum of the q-EELS spectra in the first Brillouin zone is called the correction spectrum.
 The Batson correction is then performed by scaling the correction spectrum for each q-EELS spectra to be corrected in such a way that the integrated intensity of the zero-loss peaks matches, then the "centre of intensity" of the zero-loss peaks is determined and the correction spectrum is subtracted from the to be corrected q-EELS spectra with the centres of intensity aligned.
+The Batson correction code was rewritten in python after being originally written in DigitalMicrographs scripting language by \cite{Politano2017}.
 
 \subsection{Data processing techniques}
 Since the EFTEM data is essentially a 3D cube of values it needs to be processed in such a way that the information it contains can be extracted. This is something that can not be done with the cube itself since it is hard to represent 3D data in meaningful ways.

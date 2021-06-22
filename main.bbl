@@ -38,4 +38,15 @@ P.~E. Batson and J.~Silcox, ``Experimental energy-loss function,
   $\mathrm{Im}[\ensuremath{-}\frac{1}{\ensuremath{\epsilon}}(q,\ensuremath{\omega})]$,
   for aluminum,'' {\em Phys. Rev. B}, vol.~27, pp.~5224--5239, May 1983.
 
+\bibitem{Politano2017}
+A.~Politano, D.~Campi, M.~Cattelan, I.~B. Amara, S.~Jaziri, A.~Mazzotti,
+  A.~Barinov, B.~G\"{u}rbulak, S.~Duman, S.~Agnoli, L.~S. Caputi, G.~Granozzi,
+  and A.~Cupolillo, ``Indium selenide: an insight into electronic band
+  structure and surface excitations,'' {\em Scientific Reports}, vol.~7, June
+  2017.
+
+\bibitem{Schneider:191230}
+S.~Schneider, ``Angular resolved low loss eels for materials
+  characterization,'' 2013.
+
 \end{thebibliography}

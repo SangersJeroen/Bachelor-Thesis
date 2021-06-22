@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  22 JUN 2021 15:32
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  23 JUN 2021 00:31
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/Jeroe/Documents/TU Delft/BEP report/main.tex"
@@ -1334,7 +1334,7 @@ ed-to.pdf>
 (epstopdf)                    size: 9603 bytes
 (epstopdf)             Command: <epstopdf --outfile=Resources/Figures//big-spect
 rum-eps-converted-to.pdf Resources/Figures//big-spectrum.eps>
-(epstopdf)             \includegraphics on input line 136.
+(epstopdf)             \includegraphics on input line 137.
 Package epstopdf Info: Output file is already uptodate.
 <Resources/Figures//big-spectrum-eps-converted-to.pdf, id=61, 462.72874pt x 289.
 08pt>
@@ -1342,7 +1342,7 @@ File: Resources/Figures//big-spectrum-eps-converted-to.pdf Graphic file (type pd
 f)
 <use Resources/Figures//big-spectrum-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//big-spectrum-eps-converted-to.pdf  u
-sed on input line 136.
+sed on input line 137.
 (luatex.def)             Requested size: 204.85846pt x 127.98074pt.
 Package epstopdf Info: Source file: <Resources/Figures//qmap-example.eps>
 (epstopdf)                    date: 2021-06-20 22:51:19
@@ -1353,7 +1353,7 @@ ed-to.pdf>
 (epstopdf)                    size: 432349 bytes
 (epstopdf)             Command: <epstopdf --outfile=Resources/Figures//qmap-exam
 ple-eps-converted-to.pdf Resources/Figures//qmap-example.eps>
-(epstopdf)             \includegraphics on input line 142.
+(epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
 <Resources/Figures//qmap-example-eps-converted-to.pdf, id=62, 462.72874pt x 289.
 08pt>
@@ -1361,8 +1361,14 @@ File: Resources/Figures//qmap-example-eps-converted-to.pdf Graphic file (type pd
 f)
 <use Resources/Figures//qmap-example-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//qmap-example-eps-converted-to.pdf  u
-sed on input line 142.
+sed on input line 144.
 (luatex.def)             Requested size: 204.85846pt x 127.98074pt.
+
+Underfull \hbox (badness 1540) in paragraph at lines 145--145
+[]\T1/XCharter-TLF/m/n/10 Fig-ure 11: |q-EELS map of $\OML/cmm/m/it/10 $\T1/XC
+harter-TLF/m/n/10 -InSe
+ []
+
 [6<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tr-diff-im.pn
 g>]) [7<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//big-spec
 trum-eps-converted-to.pdf><c:/Users/Jeroe/Documents/TU Delft/BEP report/Resource
@@ -1433,6 +1439,8 @@ pdf)
 Package luatex.def Info: Resources/Figures//qmap_corr_comp-eps-converted-to.pdf 
  used on input line 16.
 (luatex.def)             Requested size: 455.24411pt x 284.40363pt.
+ [11<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//qmap_corr_c
+omp-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Resources/Figures//qmap_peak.eps>
 (epstopdf)                    date: 2021-06-22 00:28:22
 (epstopdf)                    size: 14764496 bytes
@@ -1442,34 +1450,34 @@ to.pdf>
 (epstopdf)                    size: 985128 bytes
 (epstopdf)             Command: <epstopdf --outfile=Resources/Figures//qmap_peak
 -eps-converted-to.pdf Resources/Figures//qmap_peak.eps>
-(epstopdf)             \includegraphics on input line 29.
+(epstopdf)             \includegraphics on input line 31.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//qmap_peak-eps-converted-to.pdf, id=136, 925.4575pt x 578.16p
+<Resources/Figures//qmap_peak-eps-converted-to.pdf, id=160, 925.4575pt x 578.16p
 t>
 File: Resources/Figures//qmap_peak-eps-converted-to.pdf Graphic file (type pdf)
 <use Resources/Figures//qmap_peak-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//qmap_peak-eps-converted-to.pdf  used
- on input line 29.
+ on input line 31.
 (luatex.def)             Requested size: 455.24411pt x 284.40363pt.
 Package epstopdf Info: Source file: <Resources/Figures//plasmon_dispersion.eps>
-(epstopdf)                    date: 2021-06-19 22:36:37
-(epstopdf)                    size: 226235 bytes
+(epstopdf)                    date: 2021-06-23 00:19:56
+(epstopdf)                    size: 388754 bytes
 (epstopdf)             Output file: <Resources/Figures//plasmon_dispersion-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2021-06-19 22:40:06
-(epstopdf)                    size: 16629 bytes
+(epstopdf)                    date: 2021-06-23 00:21:00
+(epstopdf)                    size: 39536 bytes
 (epstopdf)             Command: <epstopdf --outfile=Resources/Figures//plasmon_d
 ispersion-eps-converted-to.pdf Resources/Figures//plasmon_dispersion.eps>
-(epstopdf)             \includegraphics on input line 37.
+(epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//plasmon_dispersion-eps-converted-to.pdf, id=137, 462.72874pt
+<Resources/Figures//plasmon_dispersion-eps-converted-to.pdf, id=161, 462.72874pt
  x 289.08pt>
 File: Resources/Figures//plasmon_dispersion-eps-converted-to.pdf Graphic file (t
 ype pdf)
 <use Resources/Figures//plasmon_dispersion-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//plasmon_dispersion-eps-converted-to.
-pdf  used on input line 37.
-(luatex.def)             Requested size: 227.62206pt x 142.2018pt.
+pdf  used on input line 44.
+(luatex.def)             Requested size: 218.51521pt x 136.51161pt.
 Package epstopdf Info: Source file: <Resources/Figures//track_peak.eps>
 (epstopdf)                    date: 2021-06-19 23:30:06
 (epstopdf)                    size: 251887 bytes
@@ -1479,25 +1487,24 @@ Package epstopdf Info: Source file: <Resources/Figures//track_peak.eps>
 (epstopdf)                    size: 27686 bytes
 (epstopdf)             Command: <epstopdf --outfile=Resources/Figures//track_pea
 k-eps-converted-to.pdf Resources/Figures//track_peak.eps>
-(epstopdf)             \includegraphics on input line 44.
+(epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//track_peak-eps-converted-to.pdf, id=138, 462.72874pt x 289.0
+<Resources/Figures//track_peak-eps-converted-to.pdf, id=162, 462.72874pt x 289.0
 8pt>
 File: Resources/Figures//track_peak-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Resources/Figures//track_peak-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//track_peak-eps-converted-to.pdf  use
-d on input line 44.
-(luatex.def)             Requested size: 227.62206pt x 142.2018pt.
-) [11<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//qmap_corr_
-comp-eps-converted-to.pdf>] [12<c:/Users/Jeroe/Documents/TU Delft/BEP report/Res
-ources/Figures//qmap_peak-eps-converted-to.pdf><c:/Users/Jeroe/Documents/TU Delf
-t/BEP report/Resources/Figures//plasmon_dispersion-eps-converted-to.pdf><c:/User
-s/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//track_peak-eps-converte
-d-to.pdf>]
+d on input line 51.
+(luatex.def)             Requested size: 218.51521pt x 136.51161pt.
+ [12<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//qmap_peak-e
+ps-converted-to.pdf>])
+[13<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//plasmon_disp
+ersion-eps-converted-to.pdf><c:/Users/Jeroe/Documents/TU Delft/BEP report/Resour
+ces/Figures//track_peak-eps-converted-to.pdf>]
 ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/discussion.tex")
-[13] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/conclusion.tex")
-[14] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.bbl") [15
+[14] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/conclusion.tex")
+[15] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.bbl") [16
 Missing character: There is no – (U+2013) in font XCharter-Roman-tlf-t1!
 ]
 ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/appendix.tex"
@@ -1512,7 +1519,7 @@ onverted-to.pdf>
 _bat_peak-eps-converted-to.pdf Resources/Figures//tech_comp_bat_peak.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//tech_comp_bat_peak-eps-converted-to.pdf, id=241, 578.16pt x 
+<Resources/Figures//tech_comp_bat_peak-eps-converted-to.pdf, id=242, 578.16pt x 
 433.62pt>
 File: Resources/Figures//tech_comp_bat_peak-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1520,20 +1527,20 @@ ype pdf)
 Package luatex.def Info: Resources/Figures//tech_comp_bat_peak-eps-converted-to.
 pdf  used on input line 5.
 (luatex.def)             Requested size: 455.24411pt x 341.43124pt.
-) [16<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tech_comp_
+) [17<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tech_comp_
 bat_peak-eps-converted-to.pdf>] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/
 main.aux"))
 
 Here is how much of LuaTeX's memory you used:
- 23142 strings out of 479059
+ 23145 strings out of 479059
  125007,953878 words of node,token memory allocated
- 1024 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 dir, 7 glue, 12 kern, 7 glyph, 44 attribute, 109 
-glue_spec, 24 attribute_list, 2 write nodes
-   avail lists: 2:581,3:235,4:84,5:1514,6:60,7:11424,8:15,9:378,10:16,11:773
- 41222 multiletter control sequences out of 65536+200000
+ 1037 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 dir, 7 glue, 12 kern, 8 glyph, 46 attribute, 109 
+glue_spec, 25 attribute_list, 2 write nodes
+   avail lists: 2:578,3:235,4:84,5:1514,6:60,7:11423,8:15,9:378,10:16,11:773
+ 41225 multiletter control sequences out of 65536+200000
  94 fonts using 8011627 bytes
- 98i,8n,104p,928b,389s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 98i,8n,104p,928b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_uy5hg
 r.enc}<C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/
 XCharter-Bold.pfb><C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1546,7 +1553,7 @@ oe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Use
 rs/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on main.pdf (21 pages, 5960681 bytes).
+Output written on main.pdf (22 pages, 5996801 bytes).
 
 PDF statistics: 293 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
