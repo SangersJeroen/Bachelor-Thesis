@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  24 JUN 2021 14:06
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  24 JUN 2021 15:10
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/Jeroe/Documents/TU Delft/BEP report/main.tex"
@@ -1255,7 +1255,7 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 ] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/theory.tex"
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
-<Resources/Figures//tem.png, id=27, 143.0946pt x 360.98865pt>
+<Resources/Figures//tem.png, id=28, 143.0946pt x 360.98865pt>
 File: Resources/Figures//tem.png Graphic file (type png)
 <use Resources/Figures//tem.png>
 Package luatex.def Info: Resources/Figures//tem.png  used on input line 25.
@@ -1502,9 +1502,8 @@ ps-converted-to.pdf>])
 [13<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//plasmon_disp
 ersion-eps-converted-to.pdf><c:/Users/Jeroe/Documents/TU Delft/BEP report/Resour
 ces/Figures//track_peak-eps-converted-to.pdf>]
-("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/discussion.tex")
-[14] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/conclusion.tex")
-[15] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.bbl") [16
+("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/conclusion.tex")
+[14] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.bbl") [15
 Missing character: There is no – (U+2013) in font XCharter-Roman-tlf-t1!
 ]
 ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/appendix.tex"
@@ -1519,7 +1518,7 @@ onverted-to.pdf>
 _bat_peak-eps-converted-to.pdf Resources/Figures//tech_comp_bat_peak.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//tech_comp_bat_peak-eps-converted-to.pdf, id=242, 578.16pt x 
+<Resources/Figures//tech_comp_bat_peak-eps-converted-to.pdf, id=238, 578.16pt x 
 433.62pt>
 File: Resources/Figures//tech_comp_bat_peak-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1527,18 +1526,18 @@ ype pdf)
 Package luatex.def Info: Resources/Figures//tech_comp_bat_peak-eps-converted-to.
 pdf  used on input line 5.
 (luatex.def)             Requested size: 455.24411pt x 341.43124pt.
-) [17<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tech_comp_
+) [16<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tech_comp_
 bat_peak-eps-converted-to.pdf>] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/
 main.aux"))
 
 Here is how much of LuaTeX's memory you used:
- 23151 strings out of 479059
- 125005,953878 words of node,token memory allocated
+ 23142 strings out of 479059
+ 125007,953878 words of node,token memory allocated
  1061 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 dir, 7 glue, 13 kern, 9 glyph, 50 attribute, 109 
 glue_spec, 27 attribute_list, 2 write nodes
-   avail lists: 2:572,3:281,4:84,5:1514,6:60,7:11422,8:15,9:378,10:16,11:773
- 41231 multiletter control sequences out of 65536+200000
+   avail lists: 2:554,3:281,4:84,5:1514,6:58,7:11422,8:15,9:370,10:16,11:773
+ 41229 multiletter control sequences out of 65536+200000
  94 fonts using 8011627 bytes
  98i,8n,104p,928b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_uy5hg
@@ -1553,9 +1552,9 @@ oe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Use
 rs/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on main.pdf (22 pages, 5998525 bytes).
+Output written on main.pdf (21 pages, 6000103 bytes).
 
-PDF statistics: 293 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 290 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
