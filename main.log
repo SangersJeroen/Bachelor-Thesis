@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  24 JUN 2021 15:10
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  24 JUN 2021 17:01
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/Jeroe/Documents/TU Delft/BEP report/main.tex"
@@ -1255,7 +1255,7 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 ] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/theory.tex"
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
-<Resources/Figures//tem.png, id=28, 143.0946pt x 360.98865pt>
+<Resources/Figures//tem.png, id=29, 143.0946pt x 360.98865pt>
 File: Resources/Figures//tem.png Graphic file (type png)
 <use Resources/Figures//tem.png>
 Package luatex.def Info: Resources/Figures//tem.png  used on input line 25.
@@ -1532,10 +1532,10 @@ main.aux"))
 
 Here is how much of LuaTeX's memory you used:
  23142 strings out of 479059
- 125007,953878 words of node,token memory allocated
- 1061 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 dir, 7 glue, 13 kern, 9 glyph, 50 attribute, 109 
-glue_spec, 27 attribute_list, 2 write nodes
+ 125005,953878 words of node,token memory allocated
+ 1072 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 dir, 7 glue, 14 kern, 9 glyph, 52 attribute, 109 
+glue_spec, 28 attribute_list, 2 write nodes
    avail lists: 2:554,3:281,4:84,5:1514,6:58,7:11422,8:15,9:370,10:16,11:773
  41229 multiletter control sequences out of 65536+200000
  94 fonts using 8011627 bytes
@@ -1552,7 +1552,7 @@ oe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Use
 rs/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on main.pdf (21 pages, 6000103 bytes).
+Output written on main.pdf (21 pages, 6001073 bytes).
 
 PDF statistics: 290 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
