@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{PhysRevLett.106.193905}
 E.~G. van Putten, D.~Akbulut, J.~Bertolotti, W.~L. Vos, A.~Lagendijk, and A.~P.
@@ -44,6 +44,14 @@ A.~Politano, D.~Campi, M.~Cattelan, I.~B. Amara, S.~Jaziri, A.~Mazzotti,
   and A.~Cupolillo, ``Indium selenide: an insight into electronic band
   structure and surface excitations,'' {\em Scientific Reports}, vol.~7, June
   2017.
+
+\bibitem{Harris2020}
+C.~R. Harris, K.~J. Millman, S.~J. van~der Walt, R.~Gommers, P.~Virtanen,
+  D.~Cournapeau, E.~Wieser, J.~Taylor, S.~Berg, N.~J. Smith, R.~Kern, M.~Picus,
+  S.~Hoyer, M.~H. van Kerkwijk, M.~Brett, A.~Haldane, J.~F. del R{\'{\i}}o,
+  M.~Wiebe, P.~Peterson, P.~G{\'{e}}rard-Marchant, K.~Sheppard, T.~Reddy,
+  W.~Weckesser, H.~Abbasi, C.~Gohlke, and T.~E. Oliphant, ``Array programming
+  with {NumPy},'' {\em Nature}, vol.~585, pp.~357--362, Sept. 2020.
 
 \bibitem{Schneider:191230}
 S.~Schneider, ``Angular resolved low loss eels for materials

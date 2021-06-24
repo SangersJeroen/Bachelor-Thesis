@@ -1,4 +1,5 @@
 \section{Experimental Method}
+\label{chap:exp-meth}
 \subsection{Data format}
 For this work a specimen of $\gamma$-InSe was imaged using the momentum resolved electron energy loss technique in an energy filtered transmission electron microscope.
 The file was supplied with aligned zero-loss peaks in Gatan's \textit{.dm4} format which had to be converted to a python object for further data processing in python, for the conversion from Gatan's proprietary file to a python object the excellent ncempy package \cite{ncempy} was used.\\
@@ -49,7 +50,7 @@ Instead of integration in circle segments over the entire stack the user might w
 
 
 \subsubsection{Slicing techniques}
-Slicing refers to the term of "array slicing" in Python/Numpy which is the built-in way to select data from an array whose position in the array satisfies a condition. The slicing technique allows the user to specify one or two points and extracts all columns along the line between the two points. If one point is specified by the user the other point will be the centre of the EFTEM stack. This method returns an array of all the EELS spectra for the points along the line. This can again be plotted as a momentum-energy map.
+Slicing refers to the term of "array slicing" in Python/Numpy\cite{Harris2020} which is the built-in way to select data from an array whose position in the array satisfies a condition. The slicing technique allows the user to specify one or two points and extracts all columns along the line between the two points. If one point is specified by the user the other point will be the centre of the EFTEM stack. This method returns an array of all the EELS spectra for the points along the line. This can again be plotted as a momentum-energy map.
 
 \subsection{Data extraction}
 Once the full 3D EFTEM stack is reduced to useful momentum-energy maps or $q$-EELS spectra it is possible to start identifying interesting features such as peaks in the $q$-EELS spectra at certain regions or bright spots in the momentum-energy maps. For instance, if long bright streaks can be observed in the momentum-energy map they might hint at a relation between energy and momentum of an often occurring reaction. One of such bright peaks that will be tracked is the plasmon peak at roughly $14.5eV$ energy loss.
