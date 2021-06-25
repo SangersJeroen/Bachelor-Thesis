@@ -1,0 +1,29 @@
+\babel@toc {british}{}
+\contentsline {section}{Abstract}{ii}{}%
+\contentsline {section}{Table of contents}{iii}{}%
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Theory}{2}{}%
+\contentsline {subsection}{\numberline {2.1}The Transmission electron microscope}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Crystal structure}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Electron scattering theory}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Momentum resolved electron energy-loss spectroscopy}{4}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Energy filtered transmission electron microscope}{4}{}%
+\contentsline {subsection}{\numberline {2.5}Diffraction image}{4}{}%
+\contentsline {subsection}{\numberline {2.6}q-EELS spectra and q-EELS map}{5}{}%
+\contentsline {subsection}{\numberline {2.7}Physical relevance of (MR)EELS data}{5}{}%
+\contentsline {section}{\numberline {3}Experimental Method}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Data format}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Data correction techniques}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Removing/altering values}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Zero-loss peak and Batson correction}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Data processing techniques}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Integration techniques}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Slicing techniques}{7}{}%
+\contentsline {subsection}{\numberline {3.4}Data extraction}{7}{}%
+\contentsline {section}{\numberline {4}Results}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Comparing data extraction techniques}{8}{}%
+\contentsline {subsection}{\numberline {4.2}Reviewing Batson correction}{9}{}%
+\contentsline {subsection}{\numberline {4.3}Interesting features from data}{10}{}%
+\contentsline {section}{\numberline {5}Conclusion}{11}{}%
+\contentsline {section}{List of references}{12}{}%
+\contentsline {section}{Appendix}{13}{}%
