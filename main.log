@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  24 JUN 2021 17:01
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  25 JUN 2021 14:09
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/Jeroe/Documents/TU Delft/BEP report/main.tex"
@@ -1265,66 +1265,56 @@ Package luatex.def Info: Resources/Figures//tem.png  used on input line 25.
 <Resources/Figures//inse.png, id=35, 329.18985pt x 243.91125pt>
 File: Resources/Figures//inse.png Graphic file (type png)
 <use Resources/Figures//inse.png>
-Package luatex.def Info: Resources/Figures//inse.png  used on input line 36.
-(luatex.def)             Requested size: 102.42923pt x 75.89455pt.
+Package luatex.def Info: Resources/Figures//inse.png  used on input line 37.
+(luatex.def)             Requested size: 109.2576pt x 80.95245pt.
 <Resources/Figures//unit-cell.png, id=36, 222.5916pt x 175.97745pt>
 File: Resources/Figures//unit-cell.png Graphic file (type png)
 <use Resources/Figures//unit-cell.png>
-Package luatex.def Info: Resources/Figures//unit-cell.png  used on input line 42
+Package luatex.def Info: Resources/Figures//unit-cell.png  used on input line 44
 .
-(luatex.def)             Requested size: 102.42923pt x 80.98013pt.
+(luatex.def)             Requested size: 109.2576pt x 86.37738pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 34--46
-[]$[]$$[]$ 
- []
-
-<Resources/Figures//scat.png, id=37, 185.7339pt x 170.91855pt>
-File: Resources/Figures//scat.png Graphic file (type png)
-<use Resources/Figures//scat.png>
-Package luatex.def Info: Resources/Figures//scat.png  used on input line 65.
-(luatex.def)             Requested size: 113.81102pt x 104.7348pt.
-<Resources/Figures//bands.png, id=38, 191.5155pt x 155.74185pt>
-File: Resources/Figures//bands.png Graphic file (type png)
-<use Resources/Figures//bands.png>
-Package luatex.def Info: Resources/Figures//bands.png  used on input line 72.
-(luatex.def)             Requested size: 113.81102pt x 92.55467pt.
 [3<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//inse.png><c:/
 Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//unit-cell.png>]
+<Resources/Figures//scat.png, id=44, 185.7339pt x 170.91855pt>
+File: Resources/Figures//scat.png Graphic file (type png)
+<use Resources/Figures//scat.png>
+Package luatex.def Info: Resources/Figures//scat.png  used on input line 66.
+(luatex.def)             Requested size: 109.2576pt x 100.54373pt.
+<Resources/Figures//bands.png, id=45, 191.5155pt x 155.74185pt>
+File: Resources/Figures//bands.png Graphic file (type png)
+<use Resources/Figures//bands.png>
+Package luatex.def Info: Resources/Figures//bands.png  used on input line 73.
+(luatex.def)             Requested size: 109.2576pt x 88.85219pt.
 <Resources/Figures//diff-im.png, id=46, 175.97745pt x 216.81pt>
 File: Resources/Figures//diff-im.png Graphic file (type png)
 <use Resources/Figures//diff-im.png>
 Package luatex.def Info: Resources/Figures//diff-im.png  used on input line 90.
 (luatex.def)             Requested size: 113.81102pt x 140.21686pt.
-<Resources/Figures//diff-im3d.png, id=47, 406.51875pt x 337.5009pt>
-File: Resources/Figures//diff-im3d.png Graphic file (type png)
-<use Resources/Figures//diff-im3d.png>
-Package luatex.def Info: Resources/Figures//diff-im3d.png  used on input line 96
-.
-(luatex.def)             Requested size: 341.43307pt x 283.47307pt.
 
-[4<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//scat.png><c:/
-Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//bands.png><c:/Users
-/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//diff-im.png>]
-<Resources/Figures//filter.png, id=54, 218.9781pt x 217.89404pt>
+[4<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//diff-im.png><
+c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//scat.png><c:/Use
+rs/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//bands.png>]
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 103.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 103.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 103.
+<Resources/Figures//filter.png, id=53, 218.9781pt x 217.89404pt>
 File: Resources/Figures//filter.png Graphic file (type png)
 <use Resources/Figures//filter.png>
-Package luatex.def Info: Resources/Figures//filter.png  used on input line 113.
+Package luatex.def Info: Resources/Figures//filter.png  used on input line 107.
 (luatex.def)             Requested size: 113.81102pt x 113.2457pt.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 120.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 120.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 120.
-
-[5<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//diff-im3d.png
-><c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//filter.png>]
-<Resources/Figures//tr-diff-im.png, id=60, 289.08pt x 289.08pt>
+<Resources/Figures//tr-diff-im.png, id=54, 289.08pt x 289.08pt>
 File: Resources/Figures//tr-diff-im.png Graphic file (type png)
 <use Resources/Figures//tr-diff-im.png>
 Package luatex.def Info: Resources/Figures//tr-diff-im.png  used on input line 1
-24.
+13.
 (luatex.def)             Requested size: 227.62206pt x 227.62082pt.
+
+[5<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//filter.png><c
+:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tr-diff-im.png>]
 Package epstopdf Info: Source file: <Resources/Figures//big-spectrum.eps>
 (epstopdf)                    date: 2021-06-20 22:08:19
 (epstopdf)                    size: 192577 bytes
@@ -1334,15 +1324,15 @@ ed-to.pdf>
 (epstopdf)                    size: 9603 bytes
 (epstopdf)             Command: <epstopdf --outfile=Resources/Figures//big-spect
 rum-eps-converted-to.pdf Resources/Figures//big-spectrum.eps>
-(epstopdf)             \includegraphics on input line 138.
+(epstopdf)             \includegraphics on input line 125.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//big-spectrum-eps-converted-to.pdf, id=61, 462.72874pt x 289.
+<Resources/Figures//big-spectrum-eps-converted-to.pdf, id=60, 462.72874pt x 289.
 08pt>
 File: Resources/Figures//big-spectrum-eps-converted-to.pdf Graphic file (type pd
 f)
 <use Resources/Figures//big-spectrum-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//big-spectrum-eps-converted-to.pdf  u
-sed on input line 138.
+sed on input line 125.
 (luatex.def)             Requested size: 204.85846pt x 127.98074pt.
 Package epstopdf Info: Source file: <Resources/Figures//qmap-example.eps>
 (epstopdf)                    date: 2021-06-20 22:51:19
@@ -1353,26 +1343,17 @@ ed-to.pdf>
 (epstopdf)                    size: 432349 bytes
 (epstopdf)             Command: <epstopdf --outfile=Resources/Figures//qmap-exam
 ple-eps-converted-to.pdf Resources/Figures//qmap-example.eps>
-(epstopdf)             \includegraphics on input line 145.
+(epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//qmap-example-eps-converted-to.pdf, id=62, 462.72874pt x 289.
+<Resources/Figures//qmap-example-eps-converted-to.pdf, id=61, 462.72874pt x 289.
 08pt>
 File: Resources/Figures//qmap-example-eps-converted-to.pdf Graphic file (type pd
 f)
 <use Resources/Figures//qmap-example-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//qmap-example-eps-converted-to.pdf  u
-sed on input line 145.
+sed on input line 132.
 (luatex.def)             Requested size: 204.85846pt x 127.98074pt.
-
-Underfull \hbox (badness 1540) in paragraph at lines 146--146
-[]\T1/XCharter-TLF/m/n/10 Fig-ure 11: |q-EELS map of $\OML/cmm/m/it/10 $\T1/XC
-harter-TLF/m/n/10 -InSe
- []
-
-[6<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tr-diff-im.pn
-g>]) [7<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//big-spec
-trum-eps-converted-to.pdf><c:/Users/Jeroe/Documents/TU Delft/BEP report/Resource
-s/Figures//qmap-example-eps-converted-to.pdf>]
+)
 ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/experimental_method.tex
 "
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
@@ -1387,14 +1368,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--11
 
  []
 
-<Resources/Figures//eftem-stack.png, id=105, 1488.05937pt x 857.2025pt>
+<Resources/Figures//eftem-stack.png, id=62, 1488.05937pt x 857.2025pt>
 File: Resources/Figures//eftem-stack.png Graphic file (type png)
 <use Resources/Figures//eftem-stack.png>
 Package luatex.def Info: Resources/Figures//eftem-stack.png  used on input line 
 14.
 (luatex.def)             Requested size: 341.43307pt x 196.68155pt.
-[8<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//eftem-stack.p
-ng>]) [9] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/results.tex"
+[6<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//big-spectrum-
+eps-converted-to.pdf><c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Fig
+ures//qmap-example-eps-converted-to.pdf>] [7<c:/Users/Jeroe/Documents/TU Delft/B
+EP report/Resources/Figures//eftem-stack.png>])
+("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/results.tex"
 Package epstopdf Info: Source file: <Resources/Figures//tech_comp.eps>
 (epstopdf)                    date: 2021-06-22 14:49:16
 (epstopdf)                    size: 15959590 bytes
@@ -1406,7 +1390,7 @@ to.pdf>
 -eps-converted-to.pdf Resources/Figures//tech_comp.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//tech_comp-eps-converted-to.pdf, id=114, 578.16pt x 433.62pt>
+<Resources/Figures//tech_comp-eps-converted-to.pdf, id=106, 578.16pt x 433.62pt>
 
 File: Resources/Figures//tech_comp-eps-converted-to.pdf Graphic file (type pdf)
 <use Resources/Figures//tech_comp-eps-converted-to.pdf>
@@ -1414,12 +1398,15 @@ Package luatex.def Info: Resources/Figures//tech_comp-eps-converted-to.pdf  used
  on input line 5.
 (luatex.def)             Requested size: 455.24411pt x 341.43124pt.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
-[10<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tech_comp-ep
-s-converted-to.pdf>]
+[8]
 Package epstopdf Info: Source file: <Resources/Figures//qmap_corr_comp.eps>
 (epstopdf)                    date: 2021-06-21 21:29:39
 (epstopdf)                    size: 29273048 bytes
@@ -1431,7 +1418,7 @@ rted-to.pdf>
 _comp-eps-converted-to.pdf Resources/Figures//qmap_corr_comp.eps>
 (epstopdf)             \includegraphics on input line 17.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//qmap_corr_comp-eps-converted-to.pdf, id=135, 925.4575pt x 57
+<Resources/Figures//qmap_corr_comp-eps-converted-to.pdf, id=110, 925.4575pt x 57
 8.16pt>
 File: Resources/Figures//qmap_corr_comp-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -1439,8 +1426,13 @@ pdf)
 Package luatex.def Info: Resources/Figures//qmap_corr_comp-eps-converted-to.pdf 
  used on input line 17.
 (luatex.def)             Requested size: 455.24411pt x 284.40363pt.
- [11<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//qmap_corr_c
-omp-eps-converted-to.pdf>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tech_comp-eps
+-converted-to.pdf>] [10<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/F
+igures//qmap_corr_comp-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Resources/Figures//qmap_peak.eps>
 (epstopdf)                    date: 2021-06-22 00:28:22
 (epstopdf)                    size: 14764496 bytes
@@ -1452,13 +1444,18 @@ to.pdf>
 -eps-converted-to.pdf Resources/Figures//qmap_peak.eps>
 (epstopdf)             \includegraphics on input line 32.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//qmap_peak-eps-converted-to.pdf, id=160, 925.4575pt x 578.16p
+<Resources/Figures//qmap_peak-eps-converted-to.pdf, id=155, 925.4575pt x 578.16p
 t>
 File: Resources/Figures//qmap_peak-eps-converted-to.pdf Graphic file (type pdf)
 <use Resources/Figures//qmap_peak-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//qmap_peak-eps-converted-to.pdf  used
  on input line 32.
 (luatex.def)             Requested size: 455.24411pt x 284.40363pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
 Package epstopdf Info: Source file: <Resources/Figures//plasmon_dispersion.eps>
 (epstopdf)                    date: 2021-06-23 00:19:56
 (epstopdf)                    size: 388754 bytes
@@ -1468,15 +1465,15 @@ onverted-to.pdf>
 (epstopdf)                    size: 39536 bytes
 (epstopdf)             Command: <epstopdf --outfile=Resources/Figures//plasmon_d
 ispersion-eps-converted-to.pdf Resources/Figures//plasmon_dispersion.eps>
-(epstopdf)             \includegraphics on input line 45.
+(epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//plasmon_dispersion-eps-converted-to.pdf, id=161, 462.72874pt
+<Resources/Figures//plasmon_dispersion-eps-converted-to.pdf, id=156, 462.72874pt
  x 289.08pt>
 File: Resources/Figures//plasmon_dispersion-eps-converted-to.pdf Graphic file (t
 ype pdf)
 <use Resources/Figures//plasmon_dispersion-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//plasmon_dispersion-eps-converted-to.
-pdf  used on input line 45.
+pdf  used on input line 44.
 (luatex.def)             Requested size: 218.51521pt x 136.51161pt.
 Package epstopdf Info: Source file: <Resources/Figures//track_peak.eps>
 (epstopdf)                    date: 2021-06-19 23:30:06
@@ -1487,23 +1484,22 @@ Package epstopdf Info: Source file: <Resources/Figures//track_peak.eps>
 (epstopdf)                    size: 27686 bytes
 (epstopdf)             Command: <epstopdf --outfile=Resources/Figures//track_pea
 k-eps-converted-to.pdf Resources/Figures//track_peak.eps>
-(epstopdf)             \includegraphics on input line 52.
+(epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//track_peak-eps-converted-to.pdf, id=162, 462.72874pt x 289.0
+<Resources/Figures//track_peak-eps-converted-to.pdf, id=157, 462.72874pt x 289.0
 8pt>
 File: Resources/Figures//track_peak-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Resources/Figures//track_peak-eps-converted-to.pdf>
 Package luatex.def Info: Resources/Figures//track_peak-eps-converted-to.pdf  use
-d on input line 52.
+d on input line 51.
 (luatex.def)             Requested size: 218.51521pt x 136.51161pt.
- [12<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//qmap_peak-e
-ps-converted-to.pdf>])
-[13<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//plasmon_disp
-ersion-eps-converted-to.pdf><c:/Users/Jeroe/Documents/TU Delft/BEP report/Resour
-ces/Figures//track_peak-eps-converted-to.pdf>]
-("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/conclusion.tex")
-[14] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.bbl") [15
+) ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/conclusion.tex"
+[11<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//qmap_peak-ep
+s-converted-to.pdf><c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figur
+es//plasmon_dispersion-eps-converted-to.pdf><c:/Users/Jeroe/Documents/TU Delft/B
+EP report/Resources/Figures//track_peak-eps-converted-to.pdf>]) [12]
+("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.bbl") [13
 Missing character: There is no – (U+2013) in font XCharter-Roman-tlf-t1!
 ]
 ("c:/Users/Jeroe/Documents/TU Delft/BEP report/Chapters/appendix.tex"
@@ -1518,7 +1514,7 @@ onverted-to.pdf>
 _bat_peak-eps-converted-to.pdf Resources/Figures//tech_comp_bat_peak.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
-<Resources/Figures//tech_comp_bat_peak-eps-converted-to.pdf, id=238, 578.16pt x 
+<Resources/Figures//tech_comp_bat_peak-eps-converted-to.pdf, id=230, 578.16pt x 
 433.62pt>
 File: Resources/Figures//tech_comp_bat_peak-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1526,20 +1522,27 @@ ype pdf)
 Package luatex.def Info: Resources/Figures//tech_comp_bat_peak-eps-converted-to.
 pdf  used on input line 5.
 (luatex.def)             Requested size: 455.24411pt x 341.43124pt.
-) [16<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tech_comp_
-bat_peak-eps-converted-to.pdf>] ("c:/Users/Jeroe/Documents/TU Delft/BEP report/
-main.aux"))
+<Resources/Figures//diff-im3d.png, id=231, 406.51875pt x 337.5009pt>
+File: Resources/Figures//diff-im3d.png Graphic file (type png)
+<use Resources/Figures//diff-im3d.png>
+Package luatex.def Info: Resources/Figures//diff-im3d.png  used on input line 11
+.
+(luatex.def)             Requested size: 113.81102pt x 94.48415pt.
+) [14<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tech_comp_
+bat_peak-eps-converted-to.pdf>] [15<c:/Users/Jeroe/Documents/TU Delft/BEP report
+/Resources/Figures//diff-im3d.png>]
+("c:/Users/Jeroe/Documents/TU Delft/BEP report/main.aux"))
 
 Here is how much of LuaTeX's memory you used:
  23142 strings out of 479059
- 125005,953878 words of node,token memory allocated
- 1072 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 dir, 7 glue, 14 kern, 9 glyph, 52 attribute, 109 
-glue_spec, 28 attribute_list, 2 write nodes
-   avail lists: 2:554,3:281,4:84,5:1514,6:58,7:11422,8:15,9:370,10:16,11:773
+ 100000,953878 words of node,token memory allocated
+ 1085 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 dir, 8 glue, 14 kern, 9 glyph, 54 attribute, 109 
+glue_spec, 29 attribute_list, 2 write nodes
+   avail lists: 2:551,3:281,4:84,5:1316,6:58,7:9813,8:15,9:370,10:17,11:660
  41229 multiletter control sequences out of 65536+200000
  94 fonts using 8011627 bytes
- 98i,8n,104p,928b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 98i,8n,104p,937b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_uy5hg
 r.enc}<C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/
 XCharter-Bold.pfb><C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1552,9 +1555,9 @@ oe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Use
 rs/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on main.pdf (21 pages, 6001073 bytes).
+Output written on main.pdf (20 pages, 6000498 bytes).
 
-PDF statistics: 290 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 286 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
