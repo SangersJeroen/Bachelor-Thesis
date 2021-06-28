@@ -12,9 +12,68 @@ C.~Kisielowski, B.~Freitag, M.~Bischoff, H.~van Lin, S.~Lazar, G.~Knippels,
   aberration-corrected electron microscope with 0.5-Å information limit,''
   {\em Microscopy and Microanalysis}, vol.~14, no.~5, p.~469–477, 2008.
 
+\bibitem{Batson2002}
+P.~E. Batson, N.~Dellby, and O.~L. Krivanek, ``Sub-{\aa}ngstrom resolution
+  using aberration corrected electron optics,'' {\em Nature}, vol.~418,
+  pp.~617--620, Aug. 2002.
+
+\bibitem{Scherzer1949}
+O.~Scherzer, ``The theoretical resolution limit of the electron microscope,''
+  {\em Journal of Applied Physics}, vol.~20, pp.~20--29, Jan. 1949.
+
 \bibitem{Egerton_2008}
 R.~F. Egerton, ``Electron energy-loss spectroscopy in the {TEM},'' {\em Reports
   on Progress in Physics}, vol.~72, p.~016502, dec 2008.
+
+\bibitem{Simon:1581455}
+S.~H. Simon, {\em {The Oxford solid state basics}}.
+\newblock Oxford, UK: Oxford Univ. Press, 2013.
+
+\bibitem{Magorrian2019}
+S.~J. Magorrian, ``Introduction,'' in {\em Theory of Electronic and Optical
+  Properties of Atomically Thin Films of Indium Selenide}, pp.~1--11, Springer
+  International Publishing, 2019.
+
+\bibitem{MA2017244}
+D.~Ma, W.~Ju, Y.~Tang, and Y.~Chen, ``First-principles study of the small
+  molecule adsorption on the inse monolayer,'' {\em Applied Surface Science},
+  vol.~426, pp.~244--252, 2017.
+
+\bibitem{Egerton2011}
+R.~Egerton, {\em Electron Energy-Loss Spectroscopy in the Electron Microscope}.
+\newblock Springer {US}, 2011.
+
+\bibitem{Bendersky2001}
+L.~Bendersky and F.~Gayle, ``Electron diffraction using transmission electron
+  microscopy,'' {\em Journal of Research of the National Institute of Standards
+  and Technology}, vol.~106, p.~997, Nov. 2001.
+
+\bibitem{KELTON20017947}
+K.~Kelton, ``Quasicrystals,'' in {\em Encyclopedia of Materials: Science and
+  Technology} (K.~J. Buschow, R.~W. Cahn, M.~C. Flemings, B.~Ilschner, E.~J.
+  Kramer, S.~Mahajan, and P.~Veyssière, eds.), pp.~7947--7952, Oxford:
+  Elsevier, 2001.
+
+\bibitem{KAHL201935}
+F.~Kahl, V.~Gerheim, M.~Linck, H.~Müller, R.~Schillinger, and S.~Uhlemann,
+  ``Chapter three - test and characterization of a new post-column imaging
+  energy filter,'' in {\em Advances in Imaging and Electron Physics Including
+  Proceedings CPO-10} (P.~W. Hawkes and M.~Hÿtch, eds.), vol.~212 of {\em
+  Advances in Imaging and Electron Physics}, pp.~35--70, Elsevier, 2019.
+
+\bibitem{sigma_filter}
+W.~Probst, G.~Benner, J.~Bihr, and E.~Weimer, ``An “omega” energy filtering
+  tem— principles and applications,'' {\em Advanced Materials}, vol.~5,
+  no.~4, pp.~297--300, 1993.
+
+\bibitem{wien}
+K.~Tsuno, ``Optical design of electron microscope lenses and energy filters,''
+  {\em Microscopy}, vol.~48, no.~6, pp.~801--820, 1999.
+
+\bibitem{ROEST2021113202}
+L.~I. Roest, S.~E. {van Heijst}, L.~Maduro, J.~Rojo, and S.~Conesa-Boj,
+  ``Charting the low-loss region in electron energy loss spectroscopy with
+  machine learning,'' {\em Ultramicroscopy}, vol.~222, p.~113202, 2021.
 
 \bibitem{doi:10.1021/acs.nanolett.9b03928}
 E.~Gaufrès, F.~Fossard, V.~Gosselin, L.~Sponza, F.~Ducastelle, Z.~Li, S.~G.
@@ -32,6 +91,11 @@ P.~Ercius, P.~Gonzalo, T.~Schoonjans, fniekiel, tcpekin, and koschie,
 M.~Sj\"{o}dahl and L.~R. Benckert, ``Electronic speckle photography: analysis
   of an algorithm giving the displacement with subpixel accuracy,'' {\em Appl.
   Opt.}, vol.~32, pp.~2278--2284, May 1993.
+
+\bibitem{SCHAFFER200427}
+B.~Schaffer, W.~Grogger, and G.~Kothleitner, ``Automated spatial drift
+  correction for eftem image series,'' {\em Ultramicroscopy}, vol.~102, no.~1,
+  pp.~27--36, 2004.
 
 \bibitem{PhysRevB.27.5224}
 P.~E. Batson and J.~Silcox, ``Experimental energy-loss function,
@@ -53,8 +117,43 @@ C.~R. Harris, K.~J. Millman, S.~J. van~der Walt, R.~Gommers, P.~Virtanen,
   W.~Weckesser, H.~Abbasi, C.~Gohlke, and T.~E. Oliphant, ``Array programming
   with {NumPy},'' {\em Nature}, vol.~585, pp.~357--362, Sept. 2020.
 
+\bibitem{lutz2013learning}
+M.~Lutz, {\em Learning Python}.
+\newblock Sebastopol, CA: O'Reilly, 2013.
+
+\bibitem{mckinney2018python}
+W.~McKinney, {\em Python for data analysis : data wrangling with pandas, NumPy,
+  and IPython}.
+\newblock Sebastopol, CA: O'Reilly Media, Inc, 2018.
+
+\bibitem{10.5555/1593511}
+G.~Van~Rossum and F.~L. Drake, {\em Python 3 Reference Manual}.
+\newblock Scotts Valley, CA: CreateSpace, 2009.
+
 \bibitem{Schneider:191230}
 S.~Schneider, ``Angular resolved low loss eels for materials
   characterization,'' 2013.
+
+\bibitem{BrotonsGisbert2019}
+M.~Brotons-Gisbert, R.~Proux, R.~Picard, D.~Andres-Penares, A.~Branny,
+  A.~Molina-S{\'{a}}nchez, J.~F. S{\'{a}}nchez-Royo, and B.~D. Gerardot,
+  ``Out-of-plane orientation of luminescent excitons in two-dimensional indium
+  selenide,'' {\em Nature Communications}, vol.~10, Sept. 2019.
+
+\bibitem{Mudd2013}
+G.~W. Mudd, S.~A. Svatek, T.~Ren, A.~Patan{\`{e}}, O.~Makarovsky, L.~Eaves,
+  P.~H. Beton, Z.~D. Kovalyuk, G.~V. Lashkarev, Z.~R. Kudrynskyi, and A.~I.
+  Dmitriev, ``Tuning the bandgap of exfoliated {InSe} nanosheets by quantum
+  confinement,'' {\em Advanced Materials}, vol.~25, pp.~5714--5718, Aug. 2013.
+
+\bibitem{Dmitriev2011}
+A.~I. Dmitriev, V.~V. Vishnjak, G.~V. Lashkarev, V.~L. Karbovskyi, Z.~D.
+  Kovaljuk, and A.~P. Bahtinov, ``Investigation of the morphology of the van
+  der waals surface of the {InSe} single crystal,'' {\em Physics of the Solid
+  State}, vol.~53, pp.~622--633, Mar. 2011.
+
+\bibitem{PhysRevB.17.4718}
+J.~Camassel, P.~Merle, H.~Mathieu, and A.~Chevy, ``Excitonic absorption edge of
+  indium selenide,'' {\em Phys. Rev. B}, vol.~17, pp.~4718--4725, Jun 1978.
 
 \end{thebibliography}

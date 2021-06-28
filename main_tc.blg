@@ -6,45 +6,45 @@ The style file: ieeetr.bst
 Reallocating 'name_of_file' (item size: 1) to 25 items.
 Database file #1: Resources/literature.bib
 Warning--empty journal in Schneider:191230
-You've used 10 entries,
+You've used 30 entries,
             1876 wiz_defined-function locations,
-            557 strings with 6344 characters,
-and the built_in function-call counts, 3555 in all, are:
-= -- 306
-> -- 252
+            699 strings with 10170 characters,
+and the built_in function-call counts, 9381 in all, are:
+= -- 864
+> -- 513
 < -- 0
-+ -- 88
-- -- 78
-* -- 293
-:= -- 545
-add.period$ -- 11
-call.type$ -- 10
-change.case$ -- 10
++ -- 183
+- -- 153
+* -- 727
+:= -- 1371
+add.period$ -- 36
+call.type$ -- 30
+change.case$ -- 25
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 159
-empty$ -- 245
-format.name$ -- 78
-if$ -- 821
+cite$ -- 31
+duplicate$ -- 451
+empty$ -- 778
+format.name$ -- 153
+if$ -- 2247
 int.to.chr$ -- 0
-int.to.str$ -- 10
-missing$ -- 9
-newline$ -- 35
-num.names$ -- 10
-pop$ -- 25
+int.to.str$ -- 30
+missing$ -- 34
+newline$ -- 100
+num.names$ -- 34
+pop$ -- 86
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 143
+skip$ -- 351
 stack$ -- 0
-substring$ -- 190
-swap$ -- 88
+substring$ -- 555
+swap$ -- 219
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 24
-width$ -- 12
-write$ -- 100
+while$ -- 78
+width$ -- 32
+write$ -- 298
 (There was 1 warning)
