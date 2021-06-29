@@ -1,5 +1,3 @@
-\section{Experimental Method}
-\label{chap:exp-meth}
 %
 \end{multicols}
 \begin{figure}[t]
@@ -8,8 +6,11 @@
 	\caption{An illustration of an EFTEM-stack, slice, column and corresponding axes.}
 	\label{fig:eftem-stack}
 \end{figure}
+\noindent\makebox[\linewidth]{\rule{\linewidth}{0.4pt}}
 \begin{multicols}{2}
-%
+\section{Experimental Method}
+\label{chap:exp-meth}
+	%
 \subsection{Data format}
 For this work a specimen of $\gamma$-InSe was imaged using the momentum resolved electron energy-loss technique in an energy filtered transmission electron microscope.
 The file was supplied with aligned zero-loss peaks in Gatan's \textit{.dm4} format which had to be converted to a python object for further data processing in python, for the conversion from Gatan's proprietary file to a python object the excellent ncempy package was used.\cite{ncempy}\\
@@ -32,9 +33,18 @@ Since the acquisition time of the EFTEM stack is quite large and not all slices 
 \subsubsection{Zero-loss peak and Batson correction}
 \label{sec:batsen}
 To try and remove the zero-loss peak of the q-EELS spectrum a Batson correction is performed. A Batson correction normally uses the sum of all EELS spectra in an EFTEM image of the sample to try and correct plural scattering and subtract the zero-loss peak \cite{PhysRevB.27.5224}. Since such an image is not available the sum of all q-EELS spectra in the first Brillouin zone is used instead. This region was more likely to correspond to a true image of the sample, the sum of the q-EELS spectra in the first Brillouin zone is called the correction spectrum.
-The Batson correction is then performed by scaling the correction spectrum for each q-EELS spectra to be corrected in such a way that the integrated intensities of the zero-loss peaks match, then the "centre of intensity" of the zero-loss peaks is determined and the correction spectrum is subtracted from the to be corrected q-EELS spectra with the centres of intensity aligned.
+The Batson correction is then performed by scaling the correction spectrum for each to be corrected q-EELS spectra in such a way that the integrated intensities of the zero-loss peaks match, then the "centre of intensity" of the zero-loss peaks is determined and the correction spectrum is subtracted from the to be corrected q-EELS spectra with the centres of intensity aligned. Looking at figure \ref{fig:bat-exm}, in the top plot the Batson correction method will sum the intensities in between the vertical dashed lines, the window, and then scale the blue spectrum such that the sums of both spectra are equal in the window. The Batson method will then align the maxima, denoted by the dots, by shifting the spectra and then subtract the scaled blue spectrum from the original black spectrum. This would result in a corrected spectrum, shown in the bottom plot of figure \ref{fig:bat-exm}.
 The Batson correction code was rewritten in python after being originally written in DigitalMicrographs scripting language for an earlier work. \cite{Politano2017}.\\
-
+%
+\begin{figure}[H]
+	\centering
+	\captionsetup{width=0.9\linewidth}
+	\includegraphics[width=1\linewidth, keepaspectratio]{bat_cor_ex.eps}
+	\caption{Top plot: Showing two q-EELS spectra. The black spectrum is the to be corrected spectrum and the blue spectrum is the simulated image spectrum. Bottom plot: Showing a Batson corrected q-EELS spectra. }
+	\label{fig:bat-exm}
+\end{figure}
+%
+\newpage
 \subsection{Data processing techniques}
 Since the EFTEM data is essentially a 3D data cube of values it needs to be processed in such a way that the information it contains can be extracted and interpreted. This is something that can not be done with the cube itself since it is hard to represent 3D data in meaningful ways.\\
 %
@@ -58,7 +68,7 @@ Instead of integration in circle segments over the entire stack the user might w
 
 \subsubsection{Slicing techniques}
 Slicing refers to the term of "array slicing" in Python/Numpy\cite{Harris2020} which is the built-in way to select data from an array by specifying the positions of the data to select. \cite{lutz2013learning,mckinney2018python,10.5555/1593511}
-The slicing technique allows the user to specify one or two points and extracts all columns along the line between the two points. If one point is specified by the user the other point will be the centre of the EFTEM stack. This method returns an array of all the EELS spectra for the points along the line. This can again be plotted as a momentum-energy map.\\
+The slicing technique allows the user to specify one or two points and extracts all columns along that the line (arrow in figure \ref{fig:int-tech}) intersects between the two points. If one point is specified by the user the other point will be the centre of the EFTEM stack. This method returns an array of all the EELS spectra for the points along the line. This can again be plotted as a momentum-energy map.\\
 %
 \subsection{Data extraction}
 Once the full 3D EFTEM stack is reduced to useful momentum-energy maps or $q$-EELS spectra it is possible to start identifying interesting features such as peaks in the $q$-EELS spectra at certain regions or bright spots in the momentum-energy maps. For instance, if long bright streaks can be observed in the momentum-energy map they might hint at a relation between energy and momentum of an often occurring reaction. One of such bright streaks that is present and will be tracked is the plasmon peak at roughly $14.5$ $eV$ energy-loss.

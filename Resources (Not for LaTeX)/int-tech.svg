@@ -117,10 +117,10 @@
     </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="-121.68447 : 21.456256 : 0"
-       inkscape:vp_y="0 : 430.99058 : 0"
-       inkscape:vp_z="111.63038 : 40.630139 : 0"
-       inkscape:persp3d-origin="83.657907 : 163.07102 : 1"
+       inkscape:vp_x="-121.68446 : 21.456257 : 0"
+       inkscape:vp_y="0 : 430.99059 : 0"
+       inkscape:vp_z="111.63038 : 40.63014 : 0"
+       inkscape:persp3d-origin="83.657903 : 163.07101 : 1"
        id="perspective4307" />
     <g
        id="g2378">
@@ -438,11 +438,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="239.84009"
-     inkscape:cy="133.06347"
+     inkscape:zoom="5.6"
+     inkscape:cx="196.42234"
+     inkscape:cy="117.8278"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="3840"
@@ -484,49 +484,52 @@
        style="fill-rule:evenodd;stroke:none;stroke-linejoin:round"
        inkscape:perspectiveID="#perspective4307"
        inkscape:corner0="0.61008956 : 0.22749175 : 0 : 1"
-       inkscape:corner7="0.22006786 : 0.16595182 : 0.29093401 : 1">
+       inkscape:corner7="0.22006786 : 0.16595182 : 0.29093401 : 1"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <path
          sodipodi:type="inkscape:box3dside"
          id="path4363"
          style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:0.430991;stroke-linejoin:round"
          inkscape:box3dsidetype="11"
-         d="m 41.896557,10.97126 47.459585,8.368405 V 45.862794 L 41.896557,37.494389 Z"
-         points="89.356142,19.339665 89.356142,45.862794 41.896557,37.494389 41.896557,10.97126 " />
+         d="m 41.896559,10.971267 47.459581,8.368405 v 26.52313 L 41.896559,37.494397 Z"
+         points="89.35614,19.339672 89.35614,45.862802 41.896559,37.494397 41.896559,10.971267 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path4353"
          style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:0.430991;stroke-linejoin:round"
          inkscape:box3dsidetype="6"
-         d="M 9.4194825,22.791949 V 49.315078 L 41.896557,37.494389 V 10.97126 Z"
-         points="9.4194825,49.315078 41.896557,37.494389 41.896557,10.97126 9.4194825,22.791949 " />
+         d="m 9.4194846,22.791956 v 26.52313 L 41.896559,37.494397 v -26.52313 z"
+         points="9.4194846,49.315086 41.896559,37.494397 41.896559,10.971267 9.4194846,22.791956 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path4361"
          style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:0.430991;stroke-linejoin:round"
          inkscape:box3dsidetype="13"
-         d="M 9.4194825,49.315078 56.879067,57.683483 89.356142,45.862794 41.896557,37.494389 Z"
-         points="56.879067,57.683483 89.356142,45.862794 41.896557,37.494389 9.4194825,49.315078 " />
+         d="M 9.4194846,49.315086 56.879066,57.683491 89.35614,45.862802 41.896559,37.494397 Z"
+         points="56.879066,57.683491 89.35614,45.862802 41.896559,37.494397 9.4194846,49.315086 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path4355"
          style="fill:#7676bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.430991;stroke-linejoin:round"
          inkscape:box3dsidetype="5"
-         d="M 9.4194825,22.791949 56.879067,31.160354 89.356142,19.339665 41.896557,10.97126 Z"
-         points="56.879067,31.160354 89.356142,19.339665 41.896557,10.97126 9.4194825,22.791949 " />
+         d="M 9.4194846,22.791956 56.879066,31.160361 89.35614,19.339672 41.896559,10.971267 Z"
+         points="56.879066,31.160361 89.35614,19.339672 41.896559,10.971267 9.4194846,22.791956 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path4359"
          style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-width:0.430991;stroke-linejoin:round"
          inkscape:box3dsidetype="14"
-         d="M 56.879067,31.160354 V 57.683483 L 89.356142,45.862794 V 19.339665 Z"
-         points="56.879067,57.683483 89.356142,45.862794 89.356142,19.339665 56.879067,31.160354 " />
+         d="m 56.879066,31.160361 v 26.52313 L 89.35614,45.862802 v -26.52313 z"
+         points="56.879066,57.683491 89.35614,45.862802 89.35614,19.339672 56.879066,31.160361 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path4357"
          style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:0.430991;stroke-linejoin:round"
          inkscape:box3dsidetype="3"
-         d="M 9.4194825,22.791949 56.879067,31.160354 V 57.683483 L 9.4194825,49.315078 Z"
-         points="56.879067,31.160354 56.879067,57.683483 9.4194825,49.315078 9.4194825,22.791949 " />
+         d="m 9.4194846,22.791956 47.4595814,8.368405 v 26.52313 L 9.4194846,49.315086 Z"
+         points="56.879066,31.160361 56.879066,57.683491 9.4194846,49.315086 9.4194846,22.791956 " />
     </g>
   </g>
   <g
@@ -536,41 +539,65 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.329708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4708)"
        d="M 9.419485,22.791956 41.89656,10.971267"
-       id="path4380" />
+       id="path4380"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.329708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4512)"
        d="m 9.419485,22.791956 47.459581,8.368405"
-       id="path4382" />
+       id="path4382"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.329708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4724)"
        d="M 9.419485,22.791956 V 49.315083"
-       id="path4384" />
+       id="path4384"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <ellipse
        style="fill:#7676bd;fill-opacity:1;stroke:#111111;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:2.295, 0.765;stroke-dashoffset:0;stroke-opacity:1"
        id="path4846"
        cx="47.674202"
        cy="20.379303"
        rx="0.23386084"
-       ry="0.06681738" />
+       ry="0.06681738"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <ellipse
        style="fill:#7676bd;fill-opacity:1;stroke:#111111;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:2.295, 0.765;stroke-dashoffset:0;stroke-opacity:1"
        id="path4848"
        cx="75.198524"
        cy="19.978397"
        rx="0.20045215"
-       ry="0.06681738" />
+       ry="0.06681738"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.465, 0.465;stroke-dashoffset:0;stroke-opacity:1"
        d="M 47.640792,20.312483 V 8.0180841"
-       id="path4850" />
+       id="path4850"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.465, 0.465;stroke-dashoffset:0;stroke-opacity:1"
        d="M 75.19853,19.911579 V 7.6171801"
-       id="path4852" />
+       id="path4852"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <g
        inkscape:label=""
        transform="matrix(0.61237016,0,0,0.61237016,-12.168523,-43.575511)"
-       id="g4899">
+       id="g4899"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <g
          id="g6929">
         <g
@@ -600,7 +627,10 @@
     <g
        inkscape:label=""
        transform="matrix(0.61237016,0,0,0.61237016,15.578979,-43.489397)"
-       id="g4978">
+       id="g4978"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <g
          id="g1299">
         <g
@@ -630,7 +660,10 @@
     <g
        inkscape:label=""
        transform="matrix(0,-0.61237016,0.61237016,0,-42.094811,96.746125)"
-       id="g5072">
+       id="g5072"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <g
          id="g1333">
         <g
@@ -663,45 +696,69 @@
        cx="47.674202"
        cy="20.379303"
        rx="27.628984"
-       ry="5.3787975" />
+       ry="5.3787975"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <ellipse
        style="fill:none;stroke:#000009;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:11.16, 0.465;stroke-dashoffset:0;stroke-opacity:1"
        id="path94273"
        cx="47.674202"
        cy="20.446119"
        rx="21.739088"
-       ry="3.5981665" />
+       ry="3.5981665"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#00be00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.53, 0.26500000000000001;stroke-dashoffset:0;stroke-opacity:1"
        d="M 86.227829,15.702085 47.674201,20.44612 87.363726,23.085405"
        id="path94275"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <ellipse
        style="fill:none;stroke:#000006;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:11.16, 0.46500000000000002;stroke-dashoffset:0;stroke-opacity:0.3561644"
        id="ellipse94277"
        cx="47.674202"
        cy="43.036533"
        rx="27.628984"
-       ry="5.3787975" />
+       ry="5.3787975"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <ellipse
        style="fill:none;stroke:#000006;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:11.16, 0.46500000000000002;stroke-dashoffset:0;stroke-opacity:0.3561644"
        id="ellipse94279"
        cx="47.674202"
        cy="43.103352"
        rx="21.739088"
-       ry="3.5981665" />
+       ry="3.5981665"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.36000001;stroke-miterlimit:4;stroke-dasharray:0.52999997,0.26499999;stroke-dashoffset:0"
        d="M 71.750898,42.758516 V 19.844762"
-       id="path94285" />
+       id="path94285"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="M 47.674201,43.103352 71.750898,42.758516"
-       id="path94287" />
+       id="path94287"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <g
        inkscape:label=""
        transform="matrix(0.64288054,0,0,0.64288054,-39.523864,-37.131147)"
-       id="g94745">
+       id="g94745"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <g
          id="g4085">
         <g
@@ -731,7 +788,10 @@
     <g
        inkscape:label=""
        transform="matrix(0.64288054,0,0,0.64288054,-29.653412,-21.052997)"
-       id="g94905">
+       id="g94905"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <g
          id="g1620">
         <g
@@ -761,7 +821,10 @@
     <g
        inkscape:label=""
        transform="matrix(0.64288054,0,0,0.64288054,12.392932,-7.1012077)"
-       id="g95080">
+       id="g95080"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <g
          id="g9386">
         <g
@@ -794,6 +857,9 @@
        cx="71.7509"
        cy="20.099184"
        rx="0.61788303"
-       ry="0.25442243" />
+       ry="0.25442243"
+       inkscape:export-filename="C:\Users\Jeroe\Documents\TU Delft\BEP report\Resources\Figures\int-tech.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
   </g>
 </svg>
