@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  29 JUN 2021 17:12
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.10.14)  1 JUL 2021 16:46
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/Jeroe/Documents/TU Delft/BEP report/main_tc.tex"
@@ -1646,27 +1646,290 @@ ype pdf)
 Package luatex.def Info: Resources/Figures//tech_comp_bat_peak-eps-converted-to.
 pdf  used on input line 5.
 (luatex.def)             Requested size: 455.24411pt x 341.43124pt.
-<Resources/Figures//diff-im3d.png, id=235, 406.51875pt x 337.5009pt>
-File: Resources/Figures//diff-im3d.png Graphic file (type png)
-<use Resources/Figures//diff-im3d.png>
-Package luatex.def Info: Resources/Figures//diff-im3d.png  used on input line 11
-.
-(luatex.def)             Requested size: 113.81102pt x 94.48415pt.
 ) [15<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Figures//tech_comp_
-bat_peak-eps-converted-to.pdf>] [16<c:/Users/Jeroe/Documents/TU Delft/BEP report
-/Resources/Figures//diff-im3d.png>]
+bat_peak-eps-converted-to.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=255, 614.295pt x 794.97pt>
+
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf  used 
+on input line 45.
+(luatex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf  used 
+on input line 45.
+(luatex.def)             Requested size: 614.29349pt x 794.96806pt.
+<Resources/Reference Literature/usage_example.pdf, id=258, page=1, 614.295pt x 7
+94.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 1>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+1 used on input line 45.
+(luatex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 1>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+1 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 1>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+1 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 1>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+1 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 1>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+1 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [16<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=321, page=2, 614.295pt x 7
+94.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 2>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+2 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 2>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+2 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 2>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+2 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [17<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=325, page=3, 614.295pt x 7
+94.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 3>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+3 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 3>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+3 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 3>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+3 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [18<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=331, page=4, 614.295pt x 7
+94.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 4>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+4 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 4>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+4 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 4>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+4 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [19<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=335, page=5, 614.295pt x 7
+94.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 5>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+5 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 5>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+5 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 5>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+5 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [20<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=341, page=6, 614.295pt x 7
+94.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 6>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+6 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 6>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+6 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 6>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+6 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [21<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=345, page=7, 614.295pt x 7
+94.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 7>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+7 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 7>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+7 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 7>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+7 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [22<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=358, page=8, 614.295pt x 7
+94.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 8>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+8 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 8>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+8 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 8>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+8 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [23<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=364, page=9, 614.295pt x 7
+94.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 9>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+9 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 9>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+9 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 9>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+9 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [24<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=370, page=10, 614.295pt x 
+794.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 10>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+10 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 10>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+10 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 10>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+10 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [25<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=381, page=11, 614.295pt x 
+794.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 11>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+11 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 11>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+11 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 11>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+11 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+[26<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature/
+usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=388, page=12, 614.295pt x 
+794.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 12>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+12 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 12>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+12 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 12>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+12 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [27<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
+<Resources/Reference Literature/usage_example.pdf, id=392, page=13, 614.295pt x 
+794.97pt>
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 13>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+13 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 13>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+13 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Resources/Reference Literature/usage_example.pdf Graphic file (type pdf)
+<use Resources/Reference Literature/usage_example.pdf, page 13>
+Package luatex.def Info: Resources/Reference Literature/usage_example.pdf , page
+13 used on input line 45.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [28<c:/Users/Jeroe/Documents/TU Delft/BEP report/Resources/Reference Literature
+/usage_example.pdf>]
 ("c:/Users/Jeroe/Documents/TU Delft/BEP report/main_tc.aux"))
 
 Here is how much of LuaTeX's memory you used:
- 23314 strings out of 479059
+ 23611 strings out of 479059
  125007,953878 words of node,token memory allocated
  1465 words of node memory still in use:
    9 hlist, 2 vlist, 2 rule, 1 dir, 6 glue, 29 kern, 28 glyph, 108 attribute, 11
 2 glue_spec, 56 attribute_list, 2 write nodes
-   avail lists: 2:596,3:409,4:88,5:1680,6:58,7:11883,8:15,9:399,10:17,11:783
- 41380 multiletter control sequences out of 65536+200000
+   avail lists: 2:596,3:409,4:88,5:1682,6:58,7:11883,8:15,9:399,10:17,11:783
+ 41419 multiletter control sequences out of 65536+200000
  94 fonts using 8011627 bytes
- 98i,8n,104p,1265b,554s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 98i,17n,104p,1265b,579s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_uy5hg
 r.enc}<C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/
 XCharter-Bold.pfb><C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1679,9 +1942,9 @@ oe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Use
 rs/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><C:/Users/Jeroe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on main_tc.pdf (21 pages, 6061884 bytes).
+Output written on main_tc.pdf (33 pages, 6391934 bytes).
 
-PDF statistics: 291 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 428 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
